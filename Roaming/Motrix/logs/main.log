@@ -1,0 +1,214 @@
+[2021-10-06 23:14:52.493] [warn]  [Motrix] Logger init
+[2021-10-06 23:14:54.419] [warn]  [Motrix] auto sync tracker data: [
+  'udp://93.158.213.92:1337/announce\n' +
+    '\n' +
+    'udp://151.80.120.114:2810/announce\n' +
+    '\n' +
+    'udp://45.154.253.9:6969/announce\n' +
+    '\n' +
+    'udp://208.83.20.20:6969/announce\n' +
+    '\n' +
+    'http://198.251.84.144:80/announce\n' +
+    '\n' +
+    'udp://91.216.110.52:451/announce\n' +
+    '\n' +
+    'udp://159.69.208.124:6969/announce\n' +
+    '\n' +
+    'udp://167.179.77.133:1/announce\n' +
+    '\n' +
+    'udp://156.234.201.18:80/announce\n' +
+    '\n' +
+    'udp://173.212.223.237:6969/announce\n' +
+    '\n' +
+    'udp://51.15.55.204:1337/announce\n' +
+    '\n' +
+    'udp://89.234.156.205:451/announce\n' +
+    '\n' +
+    'udp://163.172.170.127:6969/announce\n' +
+    '\n' +
+    'udp://104.244.72.77:1337/announce\n' +
+    '\n' +
+    'udp://23.95.15.127:6969/announce\n' +
+    '\n' +
+    'udp://103.196.36.31:6969/announce\n' +
+    '\n' +
+    'udp://109.248.43.36:6969/announce\n' +
+    '\n' +
+    'udp://185.21.216.185:6969/announce\n' +
+    '\n',
+  'udp://tracker.opentrackr.org:1337/announce\n' +
+    '\n' +
+    'udp://9.rarbg.com:2810/announce\n' +
+    '\n' +
+    'udp://tracker.openbittorrent.com:6969/announce\n' +
+    '\n' +
+    'udp://exodus.desync.com:6969/announce\n' +
+    '\n' +
+    'http://tracker.openbittorrent.com:80/announce\n' +
+    '\n' +
+    'http://openbittorrent.com:80/announce\n' +
+    '\n' +
+    'udp://www.torrent.eu.org:451/announce\n' +
+    '\n' +
+    'udp://vibe.community:6969/announce\n' +
+    '\n' +
+    'udp://u.wwwww.wtf:1/announce\n' +
+    '\n' +
+    'udp://tracker1.bt.moack.co.kr:80/announce\n' +
+    '\n' +
+    'udp://tracker0.ufibox.com:6969/announce\n' +
+    '\n' +
+    'udp://tracker.zerobytes.xyz:1337/announce\n' +
+    '\n' +
+    'udp://tracker.torrent.eu.org:451/announce\n' +
+    '\n' +
+    'udp://tracker.moeking.me:6969/announce\n' +
+    '\n' +
+    'udp://tracker.leech.ie:1337/announce\n' +
+    '\n' +
+    'udp://tracker.edkj.club:6969/announce\n' +
+    '\n' +
+    'udp://tracker.army:6969/announce\n' +
+    '\n' +
+    'udp://tracker.altrosky.nl:6969/announce\n' +
+    '\n' +
+    'udp://tracker.0x.tf:6969/announce\n' +
+    '\n' +
+    'udp://retracker.netbynet.ru:2710/announce\n' +
+    '\n'
+]
+[2021-10-06 23:14:54.720] [warn]  [Motrix] UPnPManager map 21301 failed, error:  Error: UPnP port mapping failed
+    at C:\Users\Admin\AppData\Local\Programs\Motrix\resources\app.asar\node_modules\@motrix\nat-api\index.js:226:25
+    at C:\Users\Admin\AppData\Local\Programs\Motrix\resources\app.asar\node_modules\@motrix\nat-api\index.js:327:16
+    at C:\Users\Admin\AppData\Local\Programs\Motrix\resources\app.asar\node_modules\@motrix\nat-api\lib\upnp\index.js:24:23
+    at Timeout._onTimeout (C:\Users\Admin\AppData\Local\Programs\Motrix\resources\app.asar\node_modules\@motrix\nat-api\lib\upnp\index.js:193:7)
+    at listOnTimeout (internal/timers.js:549:17)
+    at processTimers (internal/timers.js:492:7)
+[2021-10-06 23:14:54.721] [warn]  [Motrix] UPnPManager map 26701 failed, error:  Error: UPnP port mapping failed
+    at C:\Users\Admin\AppData\Local\Programs\Motrix\resources\app.asar\node_modules\@motrix\nat-api\index.js:226:25
+    at C:\Users\Admin\AppData\Local\Programs\Motrix\resources\app.asar\node_modules\@motrix\nat-api\index.js:327:16
+    at C:\Users\Admin\AppData\Local\Programs\Motrix\resources\app.asar\node_modules\@motrix\nat-api\lib\upnp\index.js:24:23
+    at Timeout._onTimeout (C:\Users\Admin\AppData\Local\Programs\Motrix\resources\app.asar\node_modules\@motrix\nat-api\lib\upnp\index.js:193:7)
+    at listOnTimeout (internal/timers.js:549:17)
+    at processTimers (internal/timers.js:492:7)
+[2021-10-06 23:15:21.517] [warn]  [Motrix] Logger init
+[2021-10-06 23:15:23.715] [warn]  [Motrix] UPnPManager map 21301 failed, error:  Error: UPnP port mapping failed
+    at C:\Users\Admin\AppData\Local\Programs\Motrix\resources\app.asar\node_modules\@motrix\nat-api\index.js:226:25
+    at C:\Users\Admin\AppData\Local\Programs\Motrix\resources\app.asar\node_modules\@motrix\nat-api\index.js:327:16
+    at C:\Users\Admin\AppData\Local\Programs\Motrix\resources\app.asar\node_modules\@motrix\nat-api\lib\upnp\index.js:24:23
+    at Timeout._onTimeout (C:\Users\Admin\AppData\Local\Programs\Motrix\resources\app.asar\node_modules\@motrix\nat-api\lib\upnp\index.js:193:7)
+    at listOnTimeout (internal/timers.js:549:17)
+    at processTimers (internal/timers.js:492:7)
+[2021-10-06 23:15:23.716] [warn]  [Motrix] UPnPManager map 26701 failed, error:  Error: UPnP port mapping failed
+    at C:\Users\Admin\AppData\Local\Programs\Motrix\resources\app.asar\node_modules\@motrix\nat-api\index.js:226:25
+    at C:\Users\Admin\AppData\Local\Programs\Motrix\resources\app.asar\node_modules\@motrix\nat-api\index.js:327:16
+    at C:\Users\Admin\AppData\Local\Programs\Motrix\resources\app.asar\node_modules\@motrix\nat-api\lib\upnp\index.js:24:23
+    at Timeout._onTimeout (C:\Users\Admin\AppData\Local\Programs\Motrix\resources\app.asar\node_modules\@motrix\nat-api\lib\upnp\index.js:193:7)
+    at listOnTimeout (internal/timers.js:549:17)
+    at processTimers (internal/timers.js:492:7)
+[2021-10-06 23:16:15.701] [warn]  [Motrix] Logger init
+[2021-10-06 23:16:17.844] [warn]  [Motrix] UPnPManager map 21301 failed, error:  Error: UPnP port mapping failed
+    at C:\Users\Admin\AppData\Local\Programs\Motrix\resources\app.asar\node_modules\@motrix\nat-api\index.js:226:25
+    at C:\Users\Admin\AppData\Local\Programs\Motrix\resources\app.asar\node_modules\@motrix\nat-api\index.js:327:16
+    at C:\Users\Admin\AppData\Local\Programs\Motrix\resources\app.asar\node_modules\@motrix\nat-api\lib\upnp\index.js:24:23
+    at Timeout._onTimeout (C:\Users\Admin\AppData\Local\Programs\Motrix\resources\app.asar\node_modules\@motrix\nat-api\lib\upnp\index.js:193:7)
+    at listOnTimeout (internal/timers.js:549:17)
+    at processTimers (internal/timers.js:492:7)
+[2021-10-06 23:16:17.846] [warn]  [Motrix] UPnPManager map 26701 failed, error:  Error: UPnP port mapping failed
+    at C:\Users\Admin\AppData\Local\Programs\Motrix\resources\app.asar\node_modules\@motrix\nat-api\index.js:226:25
+    at C:\Users\Admin\AppData\Local\Programs\Motrix\resources\app.asar\node_modules\@motrix\nat-api\index.js:327:16
+    at C:\Users\Admin\AppData\Local\Programs\Motrix\resources\app.asar\node_modules\@motrix\nat-api\lib\upnp\index.js:24:23
+    at Timeout._onTimeout (C:\Users\Admin\AppData\Local\Programs\Motrix\resources\app.asar\node_modules\@motrix\nat-api\lib\upnp\index.js:193:7)
+    at listOnTimeout (internal/timers.js:549:17)
+    at processTimers (internal/timers.js:492:7)
+[2021-10-06 23:49:52.961] [warn]  [Motrix] Logger init
+[2021-10-06 23:52:00.619] [warn]  [Motrix] Logger init
+[2021-10-06 23:52:32.583] [warn]  [Motrix] Logger init
+[2021-10-06 23:52:40.047] [warn]  [Motrix] Logger init
+[2021-10-11 22:20:44.676] [warn]  [Motrix] Logger init
+[2021-10-11 22:20:46.435] [warn]  [Motrix] auto sync tracker data: [
+  'http://185.230.4.150:1337/announce\n' +
+    '\n' +
+    'udp://93.158.213.92:1337/announce\n' +
+    '\n' +
+    'udp://151.80.120.114:2810/announce\n' +
+    '\n' +
+    'udp://45.154.253.5:6969/announce\n' +
+    '\n' +
+    'http://45.154.253.5:80/announce\n' +
+    '\n' +
+    'http://198.251.84.144:80/announce\n' +
+    '\n' +
+    'udp://91.216.110.52:451/announce\n' +
+    '\n' +
+    'udp://51.15.55.204:1337/announce\n' +
+    '\n' +
+    'udp://89.234.156.205:451/announce\n' +
+    '\n' +
+    'udp://5.206.22.55:6969/announce\n' +
+    '\n' +
+    'udp://65.21.48.148:6969/announce\n' +
+    '\n' +
+    'udp://37.235.174.46:2710/announce\n' +
+    '\n' +
+    'udp://185.181.60.67:80/announce\n' +
+    '\n' +
+    'udp://207.241.231.226:6969/announce\n' +
+    '\n' +
+    'udp://207.241.226.111:6969/announce\n' +
+    '\n',
+  'http://p4p.arenabg.com:1337/announce\n' +
+    '\n' +
+    'udp://tracker.opentrackr.org:1337/announce\n' +
+    '\n' +
+    'udp://9.rarbg.com:2810/announce\n' +
+    '\n' +
+    'udp://tracker.openbittorrent.com:6969/announce\n' +
+    '\n' +
+    'udp://exodus.desync.com:6969/announce\n' +
+    '\n' +
+    'http://tracker.openbittorrent.com:80/announce\n' +
+    '\n' +
+    'http://openbittorrent.com:80/announce\n' +
+    '\n' +
+    'udp://www.torrent.eu.org:451/announce\n' +
+    '\n' +
+    'udp://tracker.zerobytes.xyz:1337/announce\n' +
+    '\n' +
+    'udp://tracker.torrent.eu.org:451/announce\n' +
+    '\n' +
+    'udp://tracker.tiny-vps.com:6969/announce\n' +
+    '\n' +
+    'udp://tracker.loadbt.com:6969/announce\n' +
+    '\n' +
+    'udp://retracker.lanta-net.ru:2710/announce\n' +
+    '\n' +
+    'udp://open.stealth.si:80/announce\n' +
+    '\n' +
+    'udp://bt2.archive.org:6969/announce\n' +
+    '\n' +
+    'udp://bt1.archive.org:6969/announce\n' +
+    '\n' +
+    'https://w.wwwww.wtf:443/announce\n' +
+    '\n' +
+    'https://trackme.theom.nz:443/announce\n' +
+    '\n' +
+    'https://tracker.nanoha.org:443/announce\n' +
+    '\n' +
+    'https://tracker.lilithraws.cf:443/announce\n' +
+    '\n'
+]
+[2021-10-11 22:20:46.851] [warn]  [Motrix] UPnPManager map 21301 failed, error:  Error: UPnP port mapping failed
+    at C:\Users\Admin\AppData\Local\Programs\Motrix\resources\app.asar\node_modules\@motrix\nat-api\index.js:226:25
+    at C:\Users\Admin\AppData\Local\Programs\Motrix\resources\app.asar\node_modules\@motrix\nat-api\index.js:327:16
+    at C:\Users\Admin\AppData\Local\Programs\Motrix\resources\app.asar\node_modules\@motrix\nat-api\lib\upnp\index.js:24:23
+    at Timeout._onTimeout (C:\Users\Admin\AppData\Local\Programs\Motrix\resources\app.asar\node_modules\@motrix\nat-api\lib\upnp\index.js:193:7)
+    at listOnTimeout (internal/timers.js:549:17)
+    at processTimers (internal/timers.js:492:7)
+[2021-10-11 22:20:46.852] [warn]  [Motrix] UPnPManager map 26701 failed, error:  Error: UPnP port mapping failed
+    at C:\Users\Admin\AppData\Local\Programs\Motrix\resources\app.asar\node_modules\@motrix\nat-api\index.js:226:25
+    at C:\Users\Admin\AppData\Local\Programs\Motrix\resources\app.asar\node_modules\@motrix\nat-api\index.js:327:16
+    at C:\Users\Admin\AppData\Local\Programs\Motrix\resources\app.asar\node_modules\@motrix\nat-api\lib\upnp\index.js:24:23
+    at Timeout._onTimeout (C:\Users\Admin\AppData\Local\Programs\Motrix\resources\app.asar\node_modules\@motrix\nat-api\lib\upnp\index.js:193:7)
+    at listOnTimeout (internal/timers.js:549:17)
+    at processTimers (internal/timers.js:492:7)

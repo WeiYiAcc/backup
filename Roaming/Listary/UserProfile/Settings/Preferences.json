@@ -1,0 +1,123 @@
+{
+  "AppConfigs": {
+    "TypeConfigs": {
+      "DirectoryOpus": {},
+      "WindowsExplorer": {},
+      "FileDialog": {},
+      "FolderDialog": {},
+      "Desktop": {},
+      "TotalCommander": {},
+      "XYplorer": {},
+      "Bandizip": {},
+      "AutoCAD": {},
+      "xplorer2": {},
+      "FreeCommander": {}
+    },
+    "PathConfigs": {}
+  },
+  "Menus": {
+    "Favorites": {
+      "Deletions": [],
+      "Moves": [],
+      "Insertions": [
+        {
+          "Index": -1,
+          "Info": null,
+          "Item": {
+            "Name": "Gprogram",
+            "Path": "D:\\Gprogram\\",
+            "$customType": "FavoriteFolder"
+          }
+        },
+        {
+          "Index": -1,
+          "Info": null,
+          "Item": {
+            "Name": "#doing",
+            "Path": "Z:\\Downloads\\206463194_sd7548697\\#doing",
+            "$customType": "FavoriteFolder"
+          }
+        },
+        {
+          "Index": -1,
+          "Info": null,
+          "Item": {
+            "Name": "DS918Plus",
+            "Path": "\\\\DS918Plus\\",
+            "$customType": "FavoriteFolder"
+          }
+        },
+        {
+          "Index": -1,
+          "Info": null,
+          "Item": {
+            "Name": "Ubuntu-20.04",
+            "Path": "\\\\wsl.localhost\\Ubuntu-20.04",
+            "$customType": "FavoriteFolder"
+          }
+        }
+      ],
+      "Updates": []
+    }
+  },
+  "DiskSearch": {
+    "FolderPriority": {
+      "Deletions": [],
+      "Moves": [],
+      "Insertions": [],
+      "Updates": []
+    },
+    "FileNamePriority": {
+      "Deletions": [],
+      "Moves": [],
+      "Insertions": [],
+      "Updates": []
+    },
+    "SearchFilter": {
+      "Deletions": [],
+      "Moves": [],
+      "Insertions": [],
+      "Updates": []
+    },
+    "DisabledNtfsVolumes": [],
+    "CustomFolders": []
+  },
+  "Commands": {
+    "Items": {
+      "Deletions": [],
+      "Moves": [],
+      "Insertions": [],
+      "Updates": []
+    }
+  },
+  "WebSearch": {
+    "Items": {
+      "Deletions": [],
+      "Moves": [],
+      "Insertions": [],
+      "Updates": []
+    }
+  },
+  "Actions": {
+    "Items": {
+      "Deletions": [],
+      "Moves": [],
+      "Insertions": [],
+      "Updates": []
+    }
+  },
+  "Settings": {
+    "General.LauncherPositionX": 557,
+    "General.LauncherPositionY": 531,
+    "Hotkey.ShowListary": 326,
+    "OpenFolder.Path": "D:\\Gprogram\\totalcmd\\TOTALCMD64.EXE",
+    "OpenFolder.Param": "/O /T \"%1\"",
+    "Listary5.SettingsImported": true
+  },
+  "Extensions": {
+    "Extensions": {
+      "1a63ea9d-bf25-431f-96e3-17b80027efab": {},
+      "f86966a8-24a9-46a0-baea-11e861a5c2c3": {}
+    }
+  }
+}

@@ -1,0 +1,103 @@
+2021-02-28 04:57:07.592 [1][Info] [] Failed to read setting file System.IO.FileNotFoundException: 未能找到文件“C:\Users\Admin\AppData\Roaming\Listary\UserProfile\Settings\Preferences.json”。
+文件名:“C:\Users\Admin\AppData\Roaming\Listary\UserProfile\Settings\Preferences.json”
+   在 System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   在 System.IO.FileStream.Init(String path, FileMode mode, FileAccess access, Int32 rights, Boolean useRights, FileShare share, Int32 bufferSize, FileOptions options, SECURITY_ATTRIBUTES secAttrs, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   在 System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access, FileShare share, Int32 bufferSize, FileOptions options, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   在 System.IO.StreamReader..ctor(String path, Encoding encoding, Boolean detectEncodingFromByteOrderMarks, Int32 bufferSize, Boolean checkHost)
+   在 System.IO.File.InternalReadAllText(String path, Encoding encoding, Boolean checkHost)
+   在 .()
+2021-05-04 17:41:14.410 [2483][Info] [] Exception when shutting down extension host: System.Net.Http.HttpRequestException: An error occurred while sending the request. ---> System.Net.WebException: 无法连接到远程服务器 ---> System.Net.Sockets.SocketException: 由于目标计算机积极拒绝，无法连接。 127.0.0.1:49969
+   在 System.Net.Sockets.Socket.InternalEndConnect(IAsyncResult asyncResult)
+   在 System.Net.Sockets.Socket.EndConnect(IAsyncResult asyncResult)
+   在 System.Net.ServicePoint.ConnectSocketInternal(Boolean connectFailure, Socket s4, Socket s6, Socket& socket, IPAddress& address, ConnectSocketState state, IAsyncResult asyncResult, Exception& exception)
+   --- 内部异常堆栈跟踪的结尾 ---
+   在 System.Net.HttpWebRequest.EndGetResponse(IAsyncResult asyncResult)
+   在 System.Net.Http.HttpClientHandler.GetResponseCallback(IAsyncResult ar)
+   --- 内部异常堆栈跟踪的结尾 ---
+   在 System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   在 System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   在 System.Net.Http.HttpClient.<FinishSendAsyncBuffered>d__58.MoveNext()
+--- 引发异常的上一位置中堆栈跟踪的末尾 ---
+   在 System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   在 ..MoveNext()
+2021-07-06 03:16:28.667 [1][Error] [Listary.Main.Views.LauncherSearchWindow] Empty HwndSource after opening Launcher
+2021-07-10 18:17:02.346 [93][Info] [] Error staring process C:\Users\Admin\AppData\Roaming\Microsoft\Windows\Recent\党政机关电子公文归档规范（GBT39362-2020）.pdf.lnk. System.ComponentModel.Win32Exception (0x80004005): 操作已被用户取消。
+   在 System.Diagnostics.Process.StartWithShellExecuteEx(ProcessStartInfo startInfo)
+   在 System.Diagnostics.Process.Start(ProcessStartInfo startInfo)
+   在 .(String )
+2021-07-15 22:27:53.753 [93][Info] [] Error staring process C:\Users\Admin\AppData\Roaming\Microsoft\Internet Explorer\Quick Launch\User Pinned\ImplicitAppShortcuts\969fa00ceac8236d\Vivaldi.lnk. System.ComponentModel.Win32Exception (0x80004005): 操作已被用户取消。
+   在 System.Diagnostics.Process.StartWithShellExecuteEx(ProcessStartInfo startInfo)
+   在 System.Diagnostics.Process.Start(ProcessStartInfo startInfo)
+   在 .(String )
+2021-07-15 22:51:37.637 [86][Info] [] Error staring process C:\Users\Admin\AppData\Roaming\Microsoft\Internet Explorer\Quick Launch\User Pinned\ImplicitAppShortcuts\969fa00ceac8236d\Vivaldi.lnk. System.ComponentModel.Win32Exception (0x80004005): 操作已被用户取消。
+   在 System.Diagnostics.Process.StartWithShellExecuteEx(ProcessStartInfo startInfo)
+   在 System.Diagnostics.Process.Start(ProcessStartInfo startInfo)
+   在 .(String )
+2021-10-06 17:59:01.420 [51][Fatal] [] Error in FolderInPathFilter. folderId: 47488 _folderInfo: 47556 _nextFolderId: 47553 len1: 47553 len2: 47553
+2021-10-06 17:59:02.518 [2][Fatal] [Listary.Main.App] 64bit OS: True 64bit App: True
+2021-10-06 17:59:02.518 [2][Fatal] [Listary.Main.App] System.AggregateException: 未通过等待任务或访问任务的 Exception 属性观察到任务的异常。因此，终结器线程重新引发了未观察到的异常。 ---> System.AggregateException: 发生一个或多个错误。 ---> System.IndexOutOfRangeException: 索引超出了数组界限。
+   在 ..(Int32 )
+   在 ..(Int32 )
+   在 ..(Int32 )
+   在 ..(Int32 , ParallelLoopState ,  )
+   在 System.Threading.Tasks.Parallel.<>c__DisplayClass17_0`1.<ForWorker>b__1()
+   在 System.Threading.Tasks.Task.InnerInvokeWithArg(Task childTask)
+   在 System.Threading.Tasks.Task.<>c__DisplayClass176_0.<ExecuteSelfReplicating>b__0(Object <p0>)
+   --- 内部异常堆栈跟踪的结尾 ---
+   在 System.Threading.Tasks.Task.ThrowIfExceptional(Boolean includeTaskCanceledExceptions)
+   在 System.Threading.Tasks.Task.Wait(Int32 millisecondsTimeout, CancellationToken cancellationToken)
+   在 System.Threading.Tasks.Parallel.ForWorker[TLocal](Int32 fromInclusive, Int32 toExclusive, ParallelOptions parallelOptions, Action`1 body, Action`2 bodyWithState, Func`4 bodyWithLocal, Func`1 localInit, Action`1 localFinally)
+   在 System.Threading.Tasks.Parallel.For[TLocal](Int32 fromInclusive, Int32 toExclusive, ParallelOptions parallelOptions, Func`1 localInit, Func`4 body, Action`1 localFinally)
+   在 .(Boolean ,  ,  )
+   在 .( )
+   在 Listary.DiskSearch.DiskSearchService.Search(PathDbSearchParam param, DiskSearchSessionCache cache)
+   在 System.Threading.Tasks.Task`1.InnerInvoke()
+   在 System.Threading.Tasks.Task.Execute()
+--- 引发异常的上一位置中堆栈跟踪的末尾 ---
+   在 System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   在 ..MoveNext()
+--- 引发异常的上一位置中堆栈跟踪的末尾 ---
+   在 System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   在 Listary.Core.ViewModels.SearchMode..MoveNext()
+   --- 内部异常堆栈跟踪的结尾 ---
+   在 System.Threading.Tasks.TaskExceptionHolder.Finalize()
+---> (内部异常 #0) System.AggregateException: 发生一个或多个错误。 ---> System.IndexOutOfRangeException: 索引超出了数组界限。
+   在 ..(Int32 )
+   在 ..(Int32 )
+   在 ..(Int32 )
+   在 ..(Int32 , ParallelLoopState ,  )
+   在 System.Threading.Tasks.Parallel.<>c__DisplayClass17_0`1.<ForWorker>b__1()
+   在 System.Threading.Tasks.Task.InnerInvokeWithArg(Task childTask)
+   在 System.Threading.Tasks.Task.<>c__DisplayClass176_0.<ExecuteSelfReplicating>b__0(Object <p0>)
+   --- 内部异常堆栈跟踪的结尾 ---
+   在 System.Threading.Tasks.Task.ThrowIfExceptional(Boolean includeTaskCanceledExceptions)
+   在 System.Threading.Tasks.Task.Wait(Int32 millisecondsTimeout, CancellationToken cancellationToken)
+   在 System.Threading.Tasks.Parallel.ForWorker[TLocal](Int32 fromInclusive, Int32 toExclusive, ParallelOptions parallelOptions, Action`1 body, Action`2 bodyWithState, Func`4 bodyWithLocal, Func`1 localInit, Action`1 localFinally)
+   在 System.Threading.Tasks.Parallel.For[TLocal](Int32 fromInclusive, Int32 toExclusive, ParallelOptions parallelOptions, Func`1 localInit, Func`4 body, Action`1 localFinally)
+   在 .(Boolean ,  ,  )
+   在 .( )
+   在 Listary.DiskSearch.DiskSearchService.Search(PathDbSearchParam param, DiskSearchSessionCache cache)
+   在 System.Threading.Tasks.Task`1.InnerInvoke()
+   在 System.Threading.Tasks.Task.Execute()
+--- 引发异常的上一位置中堆栈跟踪的末尾 ---
+   在 System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   在 ..MoveNext()
+--- 引发异常的上一位置中堆栈跟踪的末尾 ---
+   在 System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   在 Listary.Core.ViewModels.SearchMode..MoveNext()
+---> (内部异常 #0) System.IndexOutOfRangeException: 索引超出了数组界限。
+   在 ..(Int32 )
+   在 ..(Int32 )
+   在 ..(Int32 )
+   在 ..(Int32 , ParallelLoopState ,  )
+   在 System.Threading.Tasks.Parallel.<>c__DisplayClass17_0`1.<ForWorker>b__1()
+   在 System.Threading.Tasks.Task.InnerInvokeWithArg(Task childTask)
+   在 System.Threading.Tasks.Task.<>c__DisplayClass176_0.<ExecuteSelfReplicating>b__0(Object <p0>)<---
+<---
+
+2021-10-06 17:59:03.018 [66][Fatal] [] Error in FolderInPathFilter. folderId: 47488 _folderInfo: 47556 _nextFolderId: 47553 len1: 47553 len2: 47553
+2021-10-06 17:59:03.862 [35][Fatal] [] Error in FolderInPathFilter. folderId: 47488 _folderInfo: 47556 _nextFolderId: 47553 len1: 47553 len2: 47553
+2021-10-07 22:38:24.832 [3][Info] [] Error staring process C:\Users\Python编程快速上手 让繁琐工作自动化.pdf. System.ComponentModel.Win32Exception (0x80004005): 系统找不到指定的文件。
+   在 System.Diagnostics.Process.StartWithShellExecuteEx(ProcessStartInfo startInfo)
+   在 System.Diagnostics.Process.Start(ProcessStartInfo startInfo)
+   在 .(String )

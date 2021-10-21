@@ -1,0 +1,202 @@
+[2021-10-07 23:18:59.939] [info]  Logseq App(0.4.2) Starting... 
+[2021-10-07 23:18:59.947] [warn]  [updater] checking https://update.electronjs.org/logseq/logseq/win32-x64/0.4.2
+[2021-10-07 23:19:00.533] [info]  Logseq App(0.4.2) Starting... 
+[2021-10-07 23:19:00.542] [warn]  [updater] checking https://update.electronjs.org/logseq/logseq/win32-x64/0.4.2
+[2021-10-07 23:21:49.255] [info]  Logseq App(0.4.2) Starting... 
+[2021-10-07 23:21:49.264] [warn]  [updater] checking https://update.electronjs.org/logseq/logseq/win32-x64/0.4.2
+[2021-10-07 23:57:21.052] [info]  new-window https://www.zotero.org/support/zotero_data
+[2021-10-08 00:31:15.409] [info]  new-window https://logseq.github.io/#/page/getting%20started
+[2021-10-08 00:35:55.325] [info]  Logseq App(0.4.2) Starting... 
+[2021-10-08 00:35:55.366] [warn]  [updater] checking https://update.electronjs.org/logseq/logseq/win32-x64/0.4.2
+[2021-10-08 00:38:43.589] [info]  Logseq App(0.4.2) Starting... 
+[2021-10-08 00:38:43.598] [warn]  [updater] checking https://update.electronjs.org/logseq/logseq/win32-x64/0.4.2
+[2021-10-08 19:56:10.199] [info]  Logseq App(0.4.2) Starting... 
+[2021-10-08 19:56:10.211] [warn]  [updater] checking https://update.electronjs.org/logseq/logseq/win32-x64/0.4.2
+[2021-10-08 19:56:28.980] [info]  Logseq App(0.4.2) Starting... 
+[2021-10-08 19:56:28.988] [warn]  [updater] checking https://update.electronjs.org/logseq/logseq/win32-x64/0.4.2
+[2021-10-08 20:01:29.586] [info]  Logseq App(0.4.2) Starting... 
+[2021-10-08 20:01:29.596] [warn]  [updater] checking https://update.electronjs.org/logseq/logseq/win32-x64/0.4.2
+[2021-10-08 20:03:30.284] [info]  Logseq App(0.4.2) Starting... 
+[2021-10-08 20:03:30.295] [warn]  [updater] checking https://update.electronjs.org/logseq/logseq/win32-x64/0.4.2
+[2021-10-08 22:17:52.053] [info]  Logseq App(0.4.2) Starting... 
+[2021-10-08 22:17:52.085] [warn]  [updater] checking https://update.electronjs.org/logseq/logseq/win32-x64/0.4.2
+[2021-10-08 22:20:27.533] [info]  Logseq App(0.4.2) Starting... 
+[2021-10-08 22:20:27.542] [warn]  [updater] checking https://update.electronjs.org/logseq/logseq/win32-x64/0.4.2
+[2021-10-08 22:38:06.483] [info]  [Marketplace] [Release Asset] # v3.5.2  => https://api.github.com/repos/Sansui233/logseq-bonofix-theme/releases/assets/46031118
+[2021-10-08 22:38:41.822] [info]  [Marketplace] [Release Asset] # v3.5.2  => https://api.github.com/repos/Sansui233/logseq-bonofix-theme/releases/assets/46031118
+[2021-10-08 22:38:43.866] [info]  [Marketplace] [Updated DONE]  v3.5.2
+[2021-10-08 22:39:18.557] [info]  [Marketplace] [Release Asset] # v1.21.3  => https://api.github.com/repos/pengx17/logseq-dev-theme/releases/assets/45623548
+[2021-10-08 22:39:19.683] [info]  [Marketplace] [Updated DONE]  v1.21.3
+[2021-10-08 22:40:26.882] [info]  [Marketplace] [Release Asset] # undefined  => null
+[2021-10-08 22:40:28.695] [info]  [Marketplace] [Updated DONE]  undefined
+[2021-10-09 20:25:08.685] [info]  Logseq App(0.4.2) Starting... 
+[2021-10-09 20:25:08.718] [warn]  [updater] checking https://update.electronjs.org/logseq/logseq/win32-x64/0.4.2
+[2021-10-09 20:25:24.116] [info]  Logseq App(0.4.2) Starting... 
+[2021-10-09 20:25:24.124] [warn]  [updater] checking https://update.electronjs.org/logseq/logseq/win32-x64/0.4.2
+[2021-10-09 20:25:41.932] [info]  Logseq App(0.4.2) Starting... 
+[2021-10-09 20:25:41.942] [warn]  [updater] checking https://update.electronjs.org/logseq/logseq/win32-x64/0.4.2
+[2021-10-09 20:25:44.941] [error] [Git] Error: Empty graph path
+    at C:\Users\Admin\AppData\Local\Logseq\app-0.4.2\resources\app\electron.js:507:65
+    at Zo (C:\Users\Admin\AppData\Local\Logseq\app-0.4.2\resources\app\electron.js:507:101)
+    at $o (C:\Users\Admin\AppData\Local\Logseq\app-0.4.2\resources\app\electron.js:508:15)
+    at C:\Users\Admin\AppData\Local\Logseq\app-0.4.2\resources\app\electron.js:510:92
+    at Function.e [as g] (C:\Users\Admin\AppData\Local\Logseq\app-0.4.2\resources\app\electron.js:148:235)
+    at C:\Users\Admin\AppData\Local\Logseq\app-0.4.2\resources\app\electron.js:420:312
+[2021-10-09 20:27:04.407] [info]  Logseq App(0.4.2) Starting... 
+[2021-10-09 20:27:04.418] [warn]  [updater] checking https://update.electronjs.org/logseq/logseq/win32-x64/0.4.2
+[2021-10-09 20:27:07.418] [error] [Git] Error: Empty graph path
+    at C:\Users\Admin\AppData\Local\Logseq\app-0.4.2\resources\app\electron.js:507:65
+    at Zo (C:\Users\Admin\AppData\Local\Logseq\app-0.4.2\resources\app\electron.js:507:101)
+    at $o (C:\Users\Admin\AppData\Local\Logseq\app-0.4.2\resources\app\electron.js:508:15)
+    at C:\Users\Admin\AppData\Local\Logseq\app-0.4.2\resources\app\electron.js:510:92
+    at Function.e [as g] (C:\Users\Admin\AppData\Local\Logseq\app-0.4.2\resources\app\electron.js:148:235)
+    at C:\Users\Admin\AppData\Local\Logseq\app-0.4.2\resources\app\electron.js:420:312
+[2021-10-09 20:28:17.823] [info]  Logseq App(0.4.2) Starting... 
+[2021-10-09 20:28:17.833] [warn]  [updater] checking https://update.electronjs.org/logseq/logseq/win32-x64/0.4.2
+[2021-10-09 20:28:20.842] [error] [Git] Error: Empty graph path
+    at C:\Users\Admin\AppData\Local\Logseq\app-0.4.2\resources\app\electron.js:507:65
+    at Zo (C:\Users\Admin\AppData\Local\Logseq\app-0.4.2\resources\app\electron.js:507:101)
+    at $o (C:\Users\Admin\AppData\Local\Logseq\app-0.4.2\resources\app\electron.js:508:15)
+    at C:\Users\Admin\AppData\Local\Logseq\app-0.4.2\resources\app\electron.js:510:92
+    at Function.e [as g] (C:\Users\Admin\AppData\Local\Logseq\app-0.4.2\resources\app\electron.js:148:235)
+    at C:\Users\Admin\AppData\Local\Logseq\app-0.4.2\resources\app\electron.js:420:312
+[2021-10-09 20:41:17.504] [info]  new-window zotero://select/library/items/PNADGDPE
+[2021-10-09 20:41:30.092] [info]  new-window zotero://select/library/items/UYGHFV59
+[2021-10-09 20:41:56.716] [info]  new-window zotero://select/library/items/3CNIL5C9
+[2021-10-09 20:44:01.180] [info]  new-window zotero://select/library/items/3CNIL5C9
+[2021-10-09 20:48:17.415] [info]  Logseq App(0.4.2) Starting... 
+[2021-10-09 20:48:17.426] [warn]  [updater] checking https://update.electronjs.org/logseq/logseq/win32-x64/0.4.2
+[2021-10-09 20:56:53.853] [info]  new-window zotero://select/library/items/3VGNG6W7
+[2021-10-09 21:20:49.605] [info]  new-window es://%E6%90%9C%E7%B4%A2%E6%96%87%E4%BB%B6%E5%90%8D
+[2021-10-09 21:26:40.027] [info]  new-window es://%E6%90%9C%E7%B4%A2%E6%96%87%E4%BB%B6%E5%90%8D
+[2021-10-09 21:26:51.949] [info]  new-window es://%E6%90%9C%E7%B4%A2%E6%96%87%E4%BB%B6%E5%90%8D
+[2021-10-09 21:29:27.206] [info]  new-window es://123
+[2021-10-09 21:31:15.098] [info]  new-window es://1234
+[2021-10-09 21:33:14.981] [info]  new-window es://%E3%83%90%E3%82%B9%E5%81%9C%E3%82%B7%E3%83%A3%E3%83%AF%E3%83%BC (%E6%A1%82%E4%BA%95%E3%82%88%E3%81%97%E3%81%82%E3%81%8D) CLA-MC %E5%82%AC%E7%9C%A0%E7%99%BD%E6%BF%81%E9%99%B5%E8%BE%B1%E6%9C%AC (%E3%82%AF%E3%83%A9%E3%83%8A%E3%83%89).zip
+[2021-10-09 21:34:04.514] [info]  new-window https://www.example.com/
+[2021-10-09 21:38:57.728] [info]  new-window es://123
+[2021-10-09 21:40:03.349] [info]  new-window es://%E3%83%90%E3%82%B9%E5%81%9C%E3%82%B7%E3%83%A3%E3%83%AF%E3%83%BC (%E6%A1%82%E4%BA%95%E3%82%88%E3%81%97%E3%81%82%E3%81%8D)CLA-MC  %E5%82%AC%E7%9C%A0%E7%99%BD%E6%BF%81%E9%99%B5%E8%BE%B1%E6%9C%AC (%E3%82%AF%E3%83%A9%E3%83%8A%E3%83%89).zip
+[2021-10-09 21:40:17.502] [info]  new-window es://%E3%83%90%E3%82%B9%E5%81%9C%E3%82%B7%E3%83%A3%E3%83%AF%E3%83%BC (%E6%A1%82%E4%BA%95%E3%82%88%E3%81%97%E3%81%82%E3%81%8D)CLA-MC%E5%82%AC%E7%9C%A0%E7%99%BD%E6%BF%81%E9%99%B5%E8%BE%B1%E6%9C%AC (%E3%82%AF%E3%83%A9%E3%83%8A%E3%83%89).zip
+[2021-10-09 21:43:07.306] [info]  new-window es://\[%E3%83%90%E3%82%B9%E5%81%9C%E3%82%B7%E3%83%A3%E3%83%AF%E3%83%BC (%E6%A1%82%E4%BA%95%E3%82%88%E3%81%97%E3%81%82%E3%81%8D)CLA-MC%E5%82%AC%E7%9C%A0%E7%99%BD%E6%BF%81%E9%99%B5%E8%BE%B1%E6%9C%AC (%E3%82%AF%E3%83%A9%E3%83%8A%E3%83%89).zip
+[2021-10-10 01:21:06.885] [info]  Logseq App(0.4.2) Starting... 
+[2021-10-10 01:21:06.931] [warn]  [updater] checking https://update.electronjs.org/logseq/logseq/win32-x64/0.4.2
+[2021-10-10 03:05:03.270] [info]  Logseq App(0.4.2) Starting... 
+[2021-10-10 03:05:03.284] [warn]  [updater] checking https://update.electronjs.org/logseq/logseq/win32-x64/0.4.2
+[2021-10-10 03:09:40.571] [info]  new-window file:///Z:/Downloads/firefoxdownloads/mx-wc/wsl设置/2021-10-10-1633806373/assets/images/bg.png?v20200831
+[2021-10-10 03:09:41.158] [info]  new-window file:///Z:/Downloads/firefoxdownloads/mx-wc/wsl设置/2021-10-10-1633806373/assets/images/bg.png?v20200831
+[2021-10-10 03:09:43.374] [info]  new-window file:///Z:/Downloads/firefoxdownloads/mx-wc/wsl设置/2021-10-10-1633806373/assets/images/bg.png?v20200831
+[2021-10-10 03:09:43.576] [info]  new-window file:///Z:/Downloads/firefoxdownloads/mx-wc/wsl设置/2021-10-10-1633806373/assets/images/bg.png?v20200831
+[2021-10-10 03:09:46.259] [info]  new-window file:///Z:/Downloads/firefoxdownloads/mx-wc/wsl设置/2021-10-10-1633806373/assets/images/bg.png?v20200831
+[2021-10-10 03:11:23.159] [info]  new-window file:///Z:/Downloads/firefoxdownloads/mx-wc/wsl设置/2021-10-10-1633806373/assets/images/bg.png?v20200831
+[2021-10-10 03:11:49.850] [info]  new-window file:///Z:/Downloads/firefoxdownloads/mx-wc/wsl设置/2021-10-10-1633806373/assets/images/bg.png?v20200831
+[2021-10-10 03:11:50.912] [info]  new-window file:///Z:/Downloads/firefoxdownloads/mx-wc/wsl设置/2021-10-10-1633806373/assets/images/bg.png?v20200831
+[2021-10-10 03:12:28.074] [info]  new-window https://blog.csdn.net/swordsm/article/details/107948497
+[2021-10-10 03:12:28.248] [info]  new-window https://blog.csdn.net/swordsm/article/details/107948497
+[2021-10-10 03:12:28.436] [info]  new-window https://blog.csdn.net/swordsm/article/details/107948497
+[2021-10-10 03:13:05.548] [info]  new-window file:///Z:/Downloads/firefoxdownloads/mx-wc/wsl设置/2021-10-10-1633806373/index.html
+[2021-10-10 03:13:05.760] [info]  new-window file:///Z:/Downloads/firefoxdownloads/mx-wc/wsl设置/2021-10-10-1633806373/index.html
+[2021-10-10 03:13:06.308] [info]  new-window file:///Z:/Downloads/firefoxdownloads/mx-wc/wsl设置/2021-10-10-1633806373/index.html
+[2021-10-10 03:13:06.746] [info]  new-window file:///Z:/Downloads/firefoxdownloads/mx-wc/wsl设置/2021-10-10-1633806373/index.html
+[2021-10-10 03:13:06.940] [info]  new-window file:///Z:/Downloads/firefoxdownloads/mx-wc/wsl设置/2021-10-10-1633806373/index.html
+[2021-10-10 03:13:07.136] [info]  new-window file:///Z:/Downloads/firefoxdownloads/mx-wc/wsl设置/2021-10-10-1633806373/index.html
+[2021-10-10 03:13:07.328] [info]  new-window file:///Z:/Downloads/firefoxdownloads/mx-wc/wsl设置/2021-10-10-1633806373/index.html
+[2021-10-10 03:13:07.524] [info]  new-window file:///Z:/Downloads/firefoxdownloads/mx-wc/wsl设置/2021-10-10-1633806373/index.html
+[2021-10-10 03:15:36.394] [info]  new-window zotero://select/library/items/DLRUF4TR
+[2021-10-10 03:15:36.578] [info]  new-window zotero://select/library/items/DLRUF4TR
+[2021-10-10 03:15:42.751] [info]  new-window zotero://select/library/items/DLRUF4TR
+[2021-10-10 03:33:23.793] [info]  Logseq App(0.4.2) Starting... 
+[2021-10-10 03:33:23.803] [warn]  [updater] checking https://update.electronjs.org/logseq/logseq/win32-x64/0.4.2
+[2021-10-10 03:37:24.468] [info]  Logseq App(0.4.2) Starting... 
+[2021-10-10 03:37:24.478] [warn]  [updater] checking https://update.electronjs.org/logseq/logseq/win32-x64/0.4.2
+[2021-10-10 03:37:27.492] [error] [Git] Error: Empty graph path
+    at C:\Users\Admin\AppData\Local\Logseq\app-0.4.2\resources\app\electron.js:507:65
+    at Zo (C:\Users\Admin\AppData\Local\Logseq\app-0.4.2\resources\app\electron.js:507:101)
+    at $o (C:\Users\Admin\AppData\Local\Logseq\app-0.4.2\resources\app\electron.js:508:15)
+    at C:\Users\Admin\AppData\Local\Logseq\app-0.4.2\resources\app\electron.js:510:92
+    at Function.e [as g] (C:\Users\Admin\AppData\Local\Logseq\app-0.4.2\resources\app\electron.js:148:235)
+    at C:\Users\Admin\AppData\Local\Logseq\app-0.4.2\resources\app\electron.js:420:312
+[2021-10-10 05:37:24.497] [info]  Logseq App(0.4.2) Starting... 
+[2021-10-10 05:37:24.511] [warn]  [updater] checking https://update.electronjs.org/logseq/logseq/win32-x64/0.4.2
+[2021-10-10 05:58:17.587] [info]  Logseq App(0.4.2) Starting... 
+[2021-10-10 05:58:17.622] [warn]  [updater] checking https://update.electronjs.org/logseq/logseq/win32-x64/0.4.2
+[2021-10-10 06:09:39.158] [info]  Logseq App(0.4.2) Starting... 
+[2021-10-10 06:09:39.193] [warn]  [updater] checking https://update.electronjs.org/logseq/logseq/win32-x64/0.4.2
+[2021-10-11 01:14:54.602] [info]  Logseq App(0.4.2) Starting... 
+[2021-10-11 01:14:54.618] [warn]  [updater] checking https://update.electronjs.org/logseq/logseq/win32-x64/0.4.2
+[2021-10-11 03:05:31.055] [info]  new-window https://www.zhihu.com/question/31807987
+[2021-10-11 05:23:11.202] [info]  Logseq App(0.4.2) Starting... 
+[2021-10-11 05:23:11.211] [warn]  [updater] checking https://update.electronjs.org/logseq/logseq/win32-x64/0.4.2
+[2021-10-11 05:27:07.807] [info]  Logseq App(0.4.2) Starting... 
+[2021-10-11 05:27:07.820] [warn]  [updater] checking https://update.electronjs.org/logseq/logseq/win32-x64/0.4.2
+[2021-10-11 05:35:45.305] [info]  Logseq App(0.4.2) Starting... 
+[2021-10-11 05:35:45.316] [warn]  [updater] checking https://update.electronjs.org/logseq/logseq/win32-x64/0.4.2
+[2021-10-11 05:37:28.164] [info]  new-window https://zhuanlan.zhihu.com/p/97375243?utm_source=com.orgzly&utm_medium=social&utm_oi=53128816754688
+[2021-10-11 05:42:34.302] [info]  Logseq App(0.4.2) Starting... 
+[2021-10-11 05:42:34.314] [warn]  [updater] checking https://update.electronjs.org/logseq/logseq/win32-x64/0.4.2
+[2021-10-11 05:56:51.519] [info]  Logseq App(0.4.2) Starting... 
+[2021-10-11 05:56:51.532] [warn]  [updater] checking https://update.electronjs.org/logseq/logseq/win32-x64/0.4.2
+[2021-10-11 05:58:01.462] [info]  Logseq App(0.4.2) Starting... 
+[2021-10-11 05:58:01.474] [warn]  [updater] checking https://update.electronjs.org/logseq/logseq/win32-x64/0.4.2
+[2021-10-11 05:59:05.337] [info]  Logseq App(0.4.2) Starting... 
+[2021-10-11 05:59:05.347] [warn]  [updater] checking https://update.electronjs.org/logseq/logseq/win32-x64/0.4.2
+[2021-10-11 05:59:08.357] [error] [Git] Error: Empty graph path
+    at C:\Users\Admin\AppData\Local\Logseq\app-0.4.2\resources\app\electron.js:507:65
+    at Zo (C:\Users\Admin\AppData\Local\Logseq\app-0.4.2\resources\app\electron.js:507:101)
+    at $o (C:\Users\Admin\AppData\Local\Logseq\app-0.4.2\resources\app\electron.js:508:15)
+    at C:\Users\Admin\AppData\Local\Logseq\app-0.4.2\resources\app\electron.js:510:92
+    at Function.e [as g] (C:\Users\Admin\AppData\Local\Logseq\app-0.4.2\resources\app\electron.js:148:235)
+    at C:\Users\Admin\AppData\Local\Logseq\app-0.4.2\resources\app\electron.js:420:312
+[2021-10-11 06:09:46.843] [info]  Logseq App(0.4.2) Starting... 
+[2021-10-11 06:09:46.855] [warn]  [updater] checking https://update.electronjs.org/logseq/logseq/win32-x64/0.4.2
+[2021-10-11 06:16:44.122] [info]  Logseq App(0.4.2) Starting... 
+[2021-10-11 06:16:44.132] [warn]  [updater] checking https://update.electronjs.org/logseq/logseq/win32-x64/0.4.2
+[2021-10-11 06:21:44.172] [error] [Git] Error: Empty graph path
+    at C:\Users\Admin\AppData\Local\Logseq\app-0.4.2\resources\app\electron.js:507:65
+    at Zo (C:\Users\Admin\AppData\Local\Logseq\app-0.4.2\resources\app\electron.js:507:101)
+    at $o (C:\Users\Admin\AppData\Local\Logseq\app-0.4.2\resources\app\electron.js:508:15)
+    at C:\Users\Admin\AppData\Local\Logseq\app-0.4.2\resources\app\electron.js:510:92
+    at Function.e [as g] (C:\Users\Admin\AppData\Local\Logseq\app-0.4.2\resources\app\electron.js:148:235)
+    at C:\Users\Admin\AppData\Local\Logseq\app-0.4.2\resources\app\electron.js:420:312
+[2021-10-11 06:35:02.888] [info]  Logseq App(0.4.2) Starting... 
+[2021-10-11 06:35:02.899] [warn]  [updater] checking https://update.electronjs.org/logseq/logseq/win32-x64/0.4.2
+[2021-10-11 20:39:44.625] [info]  Logseq App(0.4.2) Starting... 
+[2021-10-11 20:39:44.658] [warn]  [updater] checking https://update.electronjs.org/logseq/logseq/win32-x64/0.4.2
+[2021-10-11 20:50:19.094] [info]  Logseq App(0.4.2) Starting... 
+[2021-10-11 20:50:19.106] [warn]  [updater] checking https://update.electronjs.org/logseq/logseq/win32-x64/0.4.2
+[2021-10-12 20:59:50.012] [info]  Logseq App(0.4.2) Starting... 
+[2021-10-12 20:59:50.060] [warn]  [updater] checking https://update.electronjs.org/logseq/logseq/win32-x64/0.4.2
+[2021-10-13 20:50:41.812] [info]  Logseq App(0.4.2) Starting... 
+[2021-10-13 20:50:41.843] [warn]  [updater] checking https://update.electronjs.org/logseq/logseq/win32-x64/0.4.2
+[2021-10-13 21:00:17.195] [info]  Logseq App(0.4.2) Starting... 
+[2021-10-13 21:00:17.230] [warn]  [updater] checking https://update.electronjs.org/logseq/logseq/win32-x64/0.4.2
+[2021-10-13 21:00:59.208] [info]  Logseq App(0.4.2) Starting... 
+[2021-10-13 21:00:59.222] [warn]  [updater] checking https://update.electronjs.org/logseq/logseq/win32-x64/0.4.2
+[2021-10-13 21:02:02.218] [info]  Logseq App(0.4.2) Starting... 
+[2021-10-13 21:02:02.229] [warn]  [updater] checking https://update.electronjs.org/logseq/logseq/win32-x64/0.4.2
+[2021-10-13 21:03:09.196] [info]  Logseq App(0.4.2) Starting... 
+[2021-10-13 21:03:09.210] [warn]  [updater] checking https://update.electronjs.org/logseq/logseq/win32-x64/0.4.2
+[2021-10-13 21:59:57.775] [info]  Logseq App(0.4.2) Starting... 
+[2021-10-13 21:59:57.789] [warn]  [updater] checking https://update.electronjs.org/logseq/logseq/win32-x64/0.4.2
+[2021-10-13 22:34:18.310] [info]  Logseq App(0.4.2) Starting... 
+[2021-10-13 22:34:18.324] [warn]  [updater] checking https://update.electronjs.org/logseq/logseq/win32-x64/0.4.2
+[2021-10-16 01:54:14.484] [info]  Logseq App(0.4.2) Starting... 
+[2021-10-16 01:54:14.503] [warn]  [updater] checking https://update.electronjs.org/logseq/logseq/win32-x64/0.4.2
+[2021-10-18 22:32:06.479] [info]  Logseq App(0.4.2) Starting... 
+[2021-10-18 22:32:06.500] [warn]  [updater] checking https://update.electronjs.org/logseq/logseq/win32-x64/0.4.2
+[2021-10-18 22:34:12.971] [info]  new-window es://%E6%90%9C%E7%B4%A2%E6%96%87%E4%BB%B6%E5%90%8D
+[2021-10-18 22:34:34.383] [info]  new-window es://%E5%B7%A8%E4%B9%B3
+[2021-10-18 23:25:03.475] [info]  new-window zotero://select/library/items/8VFJVTMT
+[2021-10-18 23:25:05.055] [info]  new-window zotero://select/library/items/8VFJVTMT
+[2021-10-18 23:25:11.216] [info]  new-window zotero://select/library/items/8VFJVTMT
+[2021-10-18 23:25:11.655] [info]  new-window zotero://select/library/items/8VFJVTMT
+[2021-10-18 23:25:11.837] [info]  new-window zotero://select/library/items/8VFJVTMT
+[2021-10-18 23:25:19.083] [info]  new-window zotero://select/library/items/8VFJVTMT
+[2021-10-18 23:28:38.549] [info]  new-window zotero://select/library/items/8VFJVTMT
+[2021-10-18 23:30:26.264] [info]  new-window zotero://select/library/items/C4CD6KDQ
+[2021-10-19 00:54:17.404] [info]  new-window zotero://select/library/items/CSVV5EHX
+[2021-10-19 00:54:20.991] [info]  new-window zotero://select/library/items/BFMJP7VP
+[2021-10-19 00:54:31.729] [info]  new-window zotero://select/library/items/BFMJP7VP
+[2021-10-20 23:42:59.767] [info]  Logseq App(0.4.2) Starting... 
+[2021-10-20 23:42:59.786] [warn]  [updater] checking https://update.electronjs.org/logseq/logseq/win32-x64/0.4.2
+[2021-10-20 23:49:15.765] [info]  Logseq App(0.4.2) Starting... 
+[2021-10-20 23:49:15.778] [warn]  [updater] checking https://update.electronjs.org/logseq/logseq/win32-x64/0.4.2
