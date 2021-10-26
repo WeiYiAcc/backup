@@ -1,0 +1,431 @@
+正在验证在以下位置中找到的 git: C:\Program Files\Git\cmd\git.exe
+正在验证在以下位置中找到的 git: C:\Program Files (x86)\Git\cmd\git.exe
+正在验证在以下位置中找到的 git: C:\Program Files\Git\cmd\git.exe
+正在验证在以下位置中找到的 git: C:\Users\WeiYi\AppData\Local\Programs\Git\cmd\git.exe
+正在验证在以下位置中找到的 git: D:\wingetapp\git\cmd\git.exe
+将使用位于 D:\wingetapp\git\cmd\git.exe 的 Git 2.33.1.windows.1
+Opening repository for path='d:\Home\WeiYiacc\github' failed; ex=Failed to execute git {
+  "exitCode": 128,
+  "gitErrorCode": "NotAGitRepository",
+  "gitCommand": "rev-parse",
+  "stdout": "",
+  "stderr": "fatal: not a git repository (or any of the parent directories): .git\n"
+}
+> git rev-parse --git-dir
+Open repository: d:\Home\WeiYiacc\github\SuperMemo
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/master refs/remotes/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+Warning: Failed to watch ref 'd:\Home\WeiYiacc\github\SuperMemo\.git\refs\remotes\origin\master', is most likely packed.
+> git config --get commit.template
+> git rev-parse --git-dir
+Open repository: d:\Home\WeiYiacc\github\backup
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/main refs/remotes/main
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+Warning: Failed to watch ref 'd:\Home\WeiYiacc\github\backup\.git\refs\remotes\origin\main', is most likely packed.
+> git config --get commit.template
+> git rev-parse --git-dir
+Open repository: d:\Home\WeiYiacc\github\logseqdata
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/master refs/remotes/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git rev-parse --git-dir
+Open repository: d:\Home\WeiYiacc\github\WeiYiAcc-test
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/main refs/remotes/main
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+Opening repository for path='d:\Home\WeiYiacc\github\workspace' failed; ex=Failed to execute git {
+  "exitCode": 128,
+  "gitErrorCode": "NotAGitRepository",
+  "gitCommand": "rev-parse",
+  "stdout": "",
+  "stderr": "fatal: not a git repository (or any of the parent directories): .git\n"
+}
+Opening repository for path='d:\Home\WeiYiacc\github\第一节 统计量与抽样分布.pdf' failed; ex=spawn D:\wingetapp\git\cmd\git.exe ENOENT {
+  "gitErrorCode": "NotAGitRepository"
+}Error: spawn D:\wingetapp\git\cmd\git.exe ENOENT
+	at Process.ChildProcess._handle.onexit (internal/child_process.js:269:19)
+	at onErrorNT (internal/child_process.js:465:16)
+	at processTicksAndRejections (internal/process/task_queues.js:80:21)
+Opening repository for path='d:\Home\WeiYiacc\github' failed; ex=Failed to execute git {
+  "exitCode": 128,
+  "gitErrorCode": "NotAGitRepository",
+  "gitCommand": "rev-parse",
+  "stdout": "",
+  "stderr": "fatal: not a git repository (or any of the parent directories): .git\n"
+}
+Opening repository for path='d:\Home\WeiYiacc\github' failed; ex=Failed to execute git {
+  "exitCode": 128,
+  "gitErrorCode": "NotAGitRepository",
+  "gitCommand": "rev-parse",
+  "stdout": "",
+  "stderr": "fatal: not a git repository (or any of the parent directories): .git\n"
+}
+Opening repository for path='d:\Home\WeiYiacc\github' failed; ex=Failed to execute git {
+  "exitCode": 128,
+  "gitErrorCode": "NotAGitRepository",
+  "gitCommand": "rev-parse",
+  "stdout": "",
+  "stderr": "fatal: not a git repository (or any of the parent directories): .git\n"
+}
+Opening repository for path='d:\Home\WeiYiacc\github' failed; ex=Failed to execute git {
+  "exitCode": 128,
+  "gitErrorCode": "NotAGitRepository",
+  "gitCommand": "rev-parse",
+  "stdout": "",
+  "stderr": "fatal: not a git repository (or any of the parent directories): .git\n"
+}
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/master refs/remotes/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/master refs/remotes/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/master refs/remotes/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/master refs/remotes/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/master refs/remotes/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/master refs/remotes/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+Opening repository for path='d:\Home\WeiYiacc\github' failed; ex=Failed to execute git {
+  "exitCode": 128,
+  "gitErrorCode": "NotAGitRepository",
+  "gitCommand": "rev-parse",
+  "stdout": "",
+  "stderr": "fatal: not a git repository (or any of the parent directories): .git\n"
+}
+Opening repository for path='d:\Home\WeiYiacc\github' failed; ex=Failed to execute git {
+  "exitCode": 128,
+  "gitErrorCode": "NotAGitRepository",
+  "gitCommand": "rev-parse",
+  "stdout": "",
+  "stderr": "fatal: not a git repository (or any of the parent directories): .git\n"
+}
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+Opening repository for path='d:\Home\WeiYiacc\github' failed; ex=Failed to execute git {
+  "exitCode": 128,
+  "gitErrorCode": "NotAGitRepository",
+  "gitCommand": "rev-parse",
+  "stdout": "",
+  "stderr": "fatal: not a git repository (or any of the parent directories): .git\n"
+}
+Opening repository for path='d:\Home\WeiYiacc\github' failed; ex=Failed to execute git {
+  "exitCode": 128,
+  "gitErrorCode": "NotAGitRepository",
+  "gitCommand": "rev-parse",
+  "stdout": "",
+  "stderr": "fatal: not a git repository (or any of the parent directories): .git\n"
+}
+Opening repository for path='d:\Home\WeiYiacc\github' failed; ex=Failed to execute git {
+  "exitCode": 128,
+  "gitErrorCode": "NotAGitRepository",
+  "gitCommand": "rev-parse",
+  "stdout": "",
+  "stderr": "fatal: not a git repository (or any of the parent directories): .git\n"
+}
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/master refs/remotes/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+Warning: Failed to watch ref 'd:\Home\WeiYiacc\github\SuperMemo\.git\refs\remotes\origin\master', is most likely packed.
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/master refs/remotes/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/main refs/remotes/main
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/main refs/remotes/main
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+Warning: Failed to watch ref 'd:\Home\WeiYiacc\github\backup\.git\refs\remotes\origin\main', is most likely packed.
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/master refs/remotes/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/master refs/remotes/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git check-ignore -v -z --stdin
+> git show --textconv :journals/1记账.org
+> git ls-files --stage -- D:\Home\WeiYiacc\github\logseqdata\journals\1记账.org
+> git cat-file -s e288f22a78a8493a8b48666556303751be7b4912
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git ls-files --stage -- D:\Home\WeiYiacc\github\logseqdata\journals\1记账.org
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/master refs/remotes/master
+> git cat-file -s e288f22a78a8493a8b48666556303751be7b4912
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git show --textconv :journals/1记账.org
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/master refs/remotes/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/master refs/remotes/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/master refs/remotes/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git log --oneline --cherry master...master@{upstream} --
+> git pull --tags origin master
+> git log --oneline --cherry main...main@{upstream} --
+> git pull --tags origin main
+> git log --oneline --cherry master...master@{upstream} --
+> git pull --tags origin master
+> git log --oneline --cherry main...main@{upstream} --
+> git pull --tags origin main
+> git show --textconv HEAD:logseq/pages-metadata.edn
+> git ls-tree -l HEAD -- D:\Home\WeiYiacc\github\logseqdata\logseq\pages-metadata.edn
+fatal: unable to access 'https://github.com/WeiYiAcc/SuperMemo.git/': OpenSSL SSL_connect: SSL_ERROR_SYSCALL in connection to github.com:443 
+fatal: unable to access 'https://github.com/WeiYiAcc/logseqdata.git/': OpenSSL SSL_connect: SSL_ERROR_SYSCALL in connection to github.com:443 
+fatal: unable to access 'https://github.com/WeiYiAcc/backup.git/': OpenSSL SSL_connect: SSL_ERROR_SYSCALL in connection to github.com:443 
+fatal: unable to access 'https://github.com/WeiYiAcc/WeiYiAcc-test.git/': OpenSSL SSL_connect: SSL_ERROR_SYSCALL in connection to github.com:443 
+> git ls-tree -l HEAD -- D:\Home\WeiYiacc\github\logseqdata\logseq\pages-metadata.edn
+> git ls-tree -l HEAD -- D:\Home\WeiYiacc\github\logseqdata\logseq\pages-metadata.edn
+> git log --oneline --cherry master...master@{upstream} --
+> git pull --tags origin master
+fatal: unable to access 'https://github.com/WeiYiAcc/logseqdata.git/': OpenSSL SSL_connect: SSL_ERROR_SYSCALL in connection to github.com:443 
+> git log --oneline --cherry main...main@{upstream} --
+> git pull --tags origin main
+> git log --oneline --cherry main...main@{upstream} --
+> git pull --tags origin main
+> git log --oneline --cherry master...master@{upstream} --
+> git pull --tags origin master
+From https://github.com/WeiYiAcc/logseqdata
+ * branch            master     -> FETCH_HEAD
+> git status -z -u
+From https://github.com/WeiYiAcc/WeiYiAcc-test
+ * branch            main       -> FETCH_HEAD
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/master refs/remotes/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/main refs/remotes/main
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/master refs/remotes/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git checkout -q master
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/master refs/remotes/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+fatal: unable to access 'https://github.com/WeiYiAcc/WeiYiAcc-test.git/': OpenSSL SSL_connect: SSL_ERROR_SYSCALL in connection to github.com:443 
+> git log --oneline --cherry master...master@{upstream} --
+> git pull --tags origin master
+fatal: unable to access 'https://github.com/WeiYiAcc/logseqdata.git/': OpenSSL SSL_read: Connection was reset, errno 10054
+> git show --textconv :git命令.md
+> git ls-files --stage -- D:\Home\WeiYiacc\github\WeiYiAcc-test\git命令.md
+> git cat-file -s 09f97e1482778107288e119c2898b0d0c165778a
+> git log --oneline --cherry master...master@{upstream} --
+> git pull --tags origin master
+fatal: unable to access 'https://github.com/WeiYiAcc/logseqdata.git/': Failed to connect to github.com port 443 after 21121 ms: Timed out
+> git log --oneline --cherry master...master@{upstream} --
+> git pull --tags origin master
+From https://github.com/WeiYiAcc/logseqdata
+ * branch            master     -> FETCH_HEAD
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/master refs/remotes/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git log --oneline --cherry master...master@{upstream} --
+> git pull --tags origin master
+fatal: unable to access 'https://github.com/WeiYiAcc/logseqdata.git/': OpenSSL SSL_read: Connection was reset, errno 10054
+> git log --oneline --cherry master...master@{upstream} --
+> git pull --tags origin master
+fatal: unable to access 'https://github.com/WeiYiAcc/logseqdata.git/': Failed to connect to github.com port 443 after 21214 ms: Timed out
+> git log --oneline --cherry master...master@{upstream} --
+> git pull --tags origin master
+fatal: unable to access 'https://github.com/WeiYiAcc/logseqdata.git/': Failed to connect to github.com port 443 after 21049 ms: Timed out
+> git log --oneline --cherry master...master@{upstream} --
+> git pull --tags origin master
+fatal: unable to access 'https://github.com/WeiYiAcc/logseqdata.git/': OpenSSL SSL_connect: SSL_ERROR_SYSCALL in connection to 127.0.0.1:7890 
+> git log --oneline --cherry master...master@{upstream} --
+> git pull --tags origin master
+fatal: unable to access 'https://github.com/WeiYiAcc/logseqdata.git/': OpenSSL SSL_connect: SSL_ERROR_SYSCALL in connection to 127.0.0.1:7890 
+> git log --oneline --cherry master...master@{upstream} --
+> git pull --tags origin master
+fatal: unable to access 'https://github.com/WeiYiAcc/logseqdata.git/': OpenSSL SSL_connect: SSL_ERROR_SYSCALL in connection to 127.0.0.1:7890 
+> git show --textconv :git命令.md
+> git ls-files --stage -- D:\Home\WeiYiacc\github\WeiYiAcc-test\git命令.md
+> git cat-file -s 09f97e1482778107288e119c2898b0d0c165778a
+> git log --oneline --cherry master...master@{upstream} --
+> git pull --tags origin master
+fatal: unable to access 'https://github.com/WeiYiAcc/logseqdata.git/': Failed to connect to 127.0.0.1 port 7080 after 2071 ms: Connection refused
+> git log --oneline --cherry master...master@{upstream} --
+> git pull --tags origin master
+fatal: unable to access 'https://github.com/WeiYiAcc/logseqdata.git/': Failed to connect to 127.0.0.1 port 7080 after 2079 ms: Connection refused
+> git log --oneline --cherry master...master@{upstream} --
+> git pull --tags origin master
+fatal: unable to access 'https://github.com/WeiYiAcc/logseqdata.git/': Failed to connect to 127.0.0.1 port 7080 after 2084 ms: Connection refused
+> git log --oneline --cherry master...master@{upstream} --
+> git pull --tags origin master
+fatal: unable to access 'https://github.com/WeiYiAcc/logseqdata.git/': Failed to connect to 127.0.0.1 port 7080 after 2077 ms: Connection refused
+> git rev-parse --git-dir
+Open repository: d:\Home\WeiYiacc\github\1\WeiYiAcc-test
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/master refs/remotes/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git status -z -u
+> git status -z -u
+> git status -z -u
+> git status -z -u
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/master refs/remotes/master
+> git symbolic-ref --short HEAD
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/main refs/remotes/main
+> git config --get commit.template
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git symbolic-ref --short HEAD
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/main refs/remotes/main
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+Warning: Failed to watch ref 'd:\Home\WeiYiacc\github\backup\.git\refs\remotes\origin\main', is most likely packed.
+> git config --get commit.template
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/master refs/remotes/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+Warning: Failed to watch ref 'd:\Home\WeiYiacc\github\SuperMemo\.git\refs\remotes\origin\master', is most likely packed.
+> git config --get commit.template
+> git log --oneline --cherry master...master@{upstream} --
+> git pull --tags origin master
+From https://github.com/WeiYiAcc/logseqdata
+ * branch            master     -> FETCH_HEAD
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/master refs/remotes/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git add -A -- .
+warning: LF will be replaced by CRLF in logseq/pages-metadata.edn.
+The file will have its original line endings in your working directory
+> git -c user.useConfigOnly=true commit --quiet --allow-empty-message --file -
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/master refs/remotes/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git status -z -u
+> git status -z -u
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/master refs/remotes/master
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/main refs/remotes/main
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git symbolic-ref --short HEAD
+> git config --get commit.template
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/master refs/remotes/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+Warning: Failed to watch ref 'd:\Home\WeiYiacc\github\SuperMemo\.git\refs\remotes\origin\master', is most likely packed.
+> git config --get commit.template
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/main refs/remotes/main
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+Warning: Failed to watch ref 'd:\Home\WeiYiacc\github\backup\.git\refs\remotes\origin\main', is most likely packed.
+> git config --get commit.template

@@ -1,0 +1,11 @@
+[https]
+	proxy = socks5://127.0.0.1:7890
+	
+	
+[user]
+	email = weiyiacc@outlook.com
+	name = weiyiacc
+[http]
+	sslVerify = false
+	proxy = socks5://127.0.0.1:7890
+	

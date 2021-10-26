@@ -1,0 +1,55 @@
+[2021-10-25 11:56:57.545] [renderer1] [info] Starting extension host with pid 8048.
+[2021-10-25 11:56:58.661] [renderer1] [error] [Extension Host] (node:8048) [DEP0005] DeprecationWarning: Buffer() is deprecated due to security and usability issues. Please use the Buffer.alloc(), Buffer.allocUnsafe(), or Buffer.from() methods instead.
+(Use `Code --trace-deprecation ...` to show where the warning was created)
+[2021-10-25 11:58:29.633] [renderer1] [info] Starting extension host with pid 10476.
+[2021-10-25 11:58:30.840] [renderer1] [error] [Extension Host] (node:10476) [DEP0005] DeprecationWarning: Buffer() is deprecated due to security and usability issues. Please use the Buffer.alloc(), Buffer.allocUnsafe(), or Buffer.from() methods instead.
+(Use `Code --trace-deprecation ...` to show where the warning was created)
+[2021-10-25 11:58:59.033] [renderer1] [info] Starting extension host with pid 7564.
+[2021-10-25 11:58:59.813] [renderer1] [error] [Extension Host] (node:7564) [DEP0005] DeprecationWarning: Buffer() is deprecated due to security and usability issues. Please use the Buffer.alloc(), Buffer.allocUnsafe(), or Buffer.from() methods instead.
+(Use `Code --trace-deprecation ...` to show where the warning was created)
+[2021-10-25 12:00:26.770] [renderer1] [info] Starting extension host with pid 3028.
+[2021-10-25 12:00:27.530] [renderer1] [error] [Extension Host] (node:3028) [DEP0005] DeprecationWarning: Buffer() is deprecated due to security and usability issues. Please use the Buffer.alloc(), Buffer.allocUnsafe(), or Buffer.from() methods instead.
+(Use `Code --trace-deprecation ...` to show where the warning was created)
+[2021-10-25 12:04:35.044] [renderer1] [info] Starting extension host with pid 896.
+[2021-10-25 12:04:35.806] [renderer1] [error] [Extension Host] (node:896) [DEP0005] DeprecationWarning: Buffer() is deprecated due to security and usability issues. Please use the Buffer.alloc(), Buffer.allocUnsafe(), or Buffer.from() methods instead.
+(Use `Code --trace-deprecation ...` to show where the warning was created)
+[2021-10-25 12:04:53.171] [renderer1] [info] Starting extension host with pid 5436.
+[2021-10-25 12:04:53.825] [renderer1] [error] [Extension Host] (node:5436) [DEP0005] DeprecationWarning: Buffer() is deprecated due to security and usability issues. Please use the Buffer.alloc(), Buffer.allocUnsafe(), or Buffer.from() methods instead.
+(Use `Code --trace-deprecation ...` to show where the warning was created)
+[2021-10-25 12:05:14.349] [renderer1] [error] ["Error: Failed to perform delete operation"]
+[2021-10-25 12:05:14.349] [renderer1] [error] Unknown (FileSystemError): Error: 未能将“SuperMemo18.05”移动到回收站
+    at a (vscode-file://vscode-app/d:/wingetapp/Microsoft%20VS%20Code/resources/app/out/vs/workbench/workbench.desktop.main.js:599:3766)
+    at D.toFileSystemProviderError (vscode-file://vscode-app/d:/wingetapp/Microsoft%20VS%20Code/resources/app/out/vs/workbench/workbench.desktop.main.js:610:37987)
+    at D.delete (vscode-file://vscode-app/d:/wingetapp/Microsoft%20VS%20Code/resources/app/out/vs/workbench/workbench.desktop.main.js:610:34188)
+    at async wi.del (vscode-file://vscode-app/d:/wingetapp/Microsoft%20VS%20Code/resources/app/out/vs/workbench/workbench.desktop.main.js:610:23796)
+    at async h.delete (vscode-file://vscode-app/d:/wingetapp/Microsoft%20VS%20Code/resources/app/out/vs/workbench/workbench.desktop.main.js:2359:58779)
+    at async a.perform (vscode-file://vscode-app/d:/wingetapp/Microsoft%20VS%20Code/resources/app/out/vs/workbench/workbench.desktop.main.js:2365:24584)
+    at async s.apply (vscode-file://vscode-app/d:/wingetapp/Microsoft%20VS%20Code/resources/app/out/vs/workbench/workbench.desktop.main.js:2365:26529)
+    at async n._performFileEdits (vscode-file://vscode-app/d:/wingetapp/Microsoft%20VS%20Code/resources/app/out/vs/workbench/workbench.desktop.main.js:2365:28612)
+    at async n.perform (vscode-file://vscode-app/d:/wingetapp/Microsoft%20VS%20Code/resources/app/out/vs/workbench/workbench.desktop.main.js:2365:28155)
+    at async s.apply (vscode-file://vscode-app/d:/wingetapp/Microsoft%20VS%20Code/resources/app/out/vs/workbench/workbench.desktop.main.js:2365:30417)
+    at async vscode-file://vscode-app/d:/wingetapp/Microsoft%20VS%20Code/resources/app/out/vs/workbench/workbench.desktop.main.js:1916:32878
+[2021-10-25 12:05:14.354] [renderer1] [error] Error: 未能将“SuperMemo18.05”移动到回收站: Unknown (FileSystemError): Error: 未能将“SuperMemo18.05”移动到回收站
+    at a (vscode-file://vscode-app/d:/wingetapp/Microsoft%20VS%20Code/resources/app/out/vs/workbench/workbench.desktop.main.js:599:3766)
+    at D.toFileSystemProviderError (vscode-file://vscode-app/d:/wingetapp/Microsoft%20VS%20Code/resources/app/out/vs/workbench/workbench.desktop.main.js:610:37987)
+    at D.delete (vscode-file://vscode-app/d:/wingetapp/Microsoft%20VS%20Code/resources/app/out/vs/workbench/workbench.desktop.main.js:610:34188)
+    at async wi.del (vscode-file://vscode-app/d:/wingetapp/Microsoft%20VS%20Code/resources/app/out/vs/workbench/workbench.desktop.main.js:610:23796)
+    at async h.delete (vscode-file://vscode-app/d:/wingetapp/Microsoft%20VS%20Code/resources/app/out/vs/workbench/workbench.desktop.main.js:2359:58779)
+    at async a.perform (vscode-file://vscode-app/d:/wingetapp/Microsoft%20VS%20Code/resources/app/out/vs/workbench/workbench.desktop.main.js:2365:24584)
+    at async s.apply (vscode-file://vscode-app/d:/wingetapp/Microsoft%20VS%20Code/resources/app/out/vs/workbench/workbench.desktop.main.js:2365:26529)
+    at async n._performFileEdits (vscode-file://vscode-app/d:/wingetapp/Microsoft%20VS%20Code/resources/app/out/vs/workbench/workbench.desktop.main.js:2365:28612)
+    at async n.perform (vscode-file://vscode-app/d:/wingetapp/Microsoft%20VS%20Code/resources/app/out/vs/workbench/workbench.desktop.main.js:2365:28155)
+    at async s.apply (vscode-file://vscode-app/d:/wingetapp/Microsoft%20VS%20Code/resources/app/out/vs/workbench/workbench.desktop.main.js:2365:30417)
+    at async vscode-file://vscode-app/d:/wingetapp/Microsoft%20VS%20Code/resources/app/out/vs/workbench/workbench.desktop.main.js:1916:32878
+[2021-10-25 12:05:16.346] [renderer1] [error] [Extension Host] Error: EPERM: operation not permitted, watch
+	at FSEvent.FSWatcher._handle.onchange (internal/fs/watchers.js:178:28)
+[2021-10-25 12:05:16.347] [renderer1] [error] [Extension Host] Error: EPERM: operation not permitted, watch
+	at FSEvent.FSWatcher._handle.onchange (internal/fs/watchers.js:178:28)
+[2021-10-25 12:05:19.188] [renderer1] [error] [Extension Host] Error: Repository not initialized
+	at O.run (d:\wingetapp\Microsoft VS Code\resources\app\extensions\git\dist\main.js:2:990974)
+	at O.checkIgnore (d:\wingetapp\Microsoft VS Code\resources\app\extensions\git\dist\main.js:2:989802)
+	at checkIgnoreSoon (d:\wingetapp\Microsoft VS Code\resources\app\extensions\git\dist\main.js:2:905296)
+	at Timeout._onTimeout (d:\wingetapp\Microsoft VS Code\resources\app\extensions\git\dist\main.js:2:909346)
+	at listOnTimeout (internal/timers.js:554:17)
+	at processTimers (internal/timers.js:497:7)
+[2021-10-25 12:05:19.854] [renderer1] [error] spawn D:\wingetapp\git\cmd\git.exe ENOENT

@@ -1,0 +1,16 @@
+正在验证在以下位置中找到的 git: C:\Program Files\Git\cmd\git.exe
+正在验证在以下位置中找到的 git: C:\Program Files (x86)\Git\cmd\git.exe
+正在验证在以下位置中找到的 git: C:\Program Files\Git\cmd\git.exe
+正在验证在以下位置中找到的 git: C:\Users\WeiYi\AppData\Local\Programs\Git\cmd\git.exe
+正在验证在以下位置中找到的 git: D:\wingetapp\git\cmd\git.exe
+将使用位于 D:\wingetapp\git\cmd\git.exe 的 Git 2.33.1.windows.1
+> git rev-parse --git-dir
+Open repository: d:\Home\WeiYiacc\github\backup
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/main refs/remotes/main
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+Warning: Failed to watch ref 'd:\Home\WeiYiacc\github\backup\.git\refs\remotes\origin\main', is most likely packed.
+> git config --get commit.template
+> git check-ignore -v -z --stdin

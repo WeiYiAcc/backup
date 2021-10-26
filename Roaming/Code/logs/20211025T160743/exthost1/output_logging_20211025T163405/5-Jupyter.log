@@ -1,0 +1,14 @@
+Info 2021-10-25 16:34:06: Experimentation service retrieved: [object Object]
+Info 2021-10-25 16:34:06: ZMQ install verified.
+Info 2021-10-25 16:34:07: Experiment status for python is {"enabled":true,"optInto":[],"optOutFrom":[]}
+Info 2021-10-25 16:34:09: Find preferred kernel for file:///d%3A/Home/WeiYiacc/github/WeiYiAcc-test/%23Draft.ipynb with metadata {"kernelspec":{"name":"python3","display_name":"Python 3.10.0 64-bit (system)"},"language_info":{"codemirror_mode":{"name":"ipython","version":3},"file_extension":".py","mimetype":"text/x-python","name":"python","nbconvert_exporter":"python","pygments_lexer":"ipython3","version":"3.10.0"},"interpreter":{"hash":"88d6ab58b6f7ffd71d821a44119aa2dc4c1eee3b0ab1892ed979dd144009023d"}} & preferred interpreter {}
+Info 2021-10-25 16:34:09: Find kernel spec, Class name = x, completed in 2802ms, has a falsy return value, Arg 1: <Uri:d:\Home\WeiYiacc\github\WeiYiAcc-test\#Draft.ipynb>, Arg 2: {"kernelspec":{"name":"python3","display_name":"Python 3.10.0 64-bit (system)"},"language_info":{"codemirror_mode":{"name":"ipython","version":3},"file_extension":".py","mimetype":"text/x-python","name":"python","nbconvert_exporter":"python","pygments_lexer":"ipython3","version":"3.10.0"},"interpreter":{"hash":"88d6ab58b6f7ffd71d821a44119aa2dc4c1eee3b0ab1892ed979dd144009023d"}}, Arg 3: {"_isCancelled":false,"_emitter":{"_disposed":false,"_listeners":{"_first":{"next":{},"prev":{}},"_last":{"next":{},"prev":{}},"_size":1}}}, Return Value: undefined
+Info 2021-10-25 16:36:20: No controller, hence notebook communications cannot be initialized for editor file:///d%3A/Home/WeiYiacc/github/WeiYiAcc-test/%23Draft.ipynb
+Info 2021-10-25 16:36:23: Notebook Closed file:///d%3A/Home/WeiYiacc/github/WeiYiAcc-test/%23Draft.ipynb
+Info 2021-10-26 12:34:48: Shutting down notebooks for 88bb4086-4924-4dd1-b8f8-c7a42170b275
+Info 2021-10-26 12:34:48: Disposing HostJupyterExecution 5236254e-9841-4347-a961-0b5aff6a6587
+Info 2021-10-26 12:34:48: Disposing super HostJupyterExecution 5236254e-9841-4347-a961-0b5aff6a6587
+Info 2021-10-26 12:34:48: Disposing HostJupyterExecution 5236254e-9841-4347-a961-0b5aff6a6587
+Info 2021-10-26 12:34:48: Finished disposing HostJupyterExecution  5236254e-9841-4347-a961-0b5aff6a6587
+Info 2021-10-26 12:34:48: Cleaning up server cache 5236254e-9841-4347-a961-0b5aff6a6587
+Info 2021-10-26 12:34:48: Finished disposing HostJupyterExecution  5236254e-9841-4347-a961-0b5aff6a6587

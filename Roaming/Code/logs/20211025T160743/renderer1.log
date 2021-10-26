@@ -1,0 +1,38 @@
+[2021-10-25 16:07:46.368] [renderer1] [info] Starting extension host with pid 15596.
+[2021-10-25 16:07:47.087] [renderer1] [error] [Extension Host] (node:15596) [DEP0005] DeprecationWarning: Buffer() is deprecated due to security and usability issues. Please use the Buffer.alloc(), Buffer.allocUnsafe(), or Buffer.from() methods instead.
+(Use `Code --trace-deprecation ...` to show where the warning was created)
+[2021-10-25 16:08:26.675] [renderer1] [error] [Extension Host] HttpError: Validation Failed: {"resource":"Search","field":"q","code":"missing"}
+	at d:\wingetapp\Microsoft VS Code\resources\app\extensions\github\dist\extension.js:2:23682
+	at processTicksAndRejections (internal/process/task_queues.js:93:5)
+	at async r.GithubRemoteSourceProvider.getQueryRemoteSources (d:\wingetapp\Microsoft VS Code\resources\app\extensions\github\dist\extension.js:2:94082)
+	at async Promise.all (index 0)
+	at async r.GithubRemoteSourceProvider.getRemoteSources (d:\wingetapp\Microsoft VS Code\resources\app\extensions\github\dist\extension.js:2:93647)
+	at async u.query (d:\wingetapp\Microsoft VS Code\resources\app\extensions\git\dist\main.js:2:960335)
+[2021-10-25 16:10:25.325] [renderer1] [warning] [File Watcher (nsfw)] ignoring a path for watching who's parent is already watched: d:\Home\WeiYiacc\github\SuperMemo
+[2021-10-25 16:10:25.468] [renderer1] [info] Starting extension host with pid 13832.
+[2021-10-25 16:10:25.952] [renderer1] [error] [Extension Host] (node:13832) [DEP0005] DeprecationWarning: Buffer() is deprecated due to security and usability issues. Please use the Buffer.alloc(), Buffer.allocUnsafe(), or Buffer.from() methods instead.
+(Use `Code --trace-deprecation ...` to show where the warning was created)
+[2021-10-25 16:10:26.473] [renderer1] [info] Extension host with pid 15596 exited with code: 0, signal: null.
+[2021-10-25 16:33:45.942] [renderer1] [warning] Settings pattern "keyboard.*" doesn't match any settings
+[2021-10-25 16:36:23.180] [renderer1] [warning] Settings pattern "keyboard.*" doesn't match any settings
+[2021-10-25 17:51:11.649] [renderer1] [error] getaddrinfo ENOTFOUND default.exp-tas.com: Error: getaddrinfo ENOTFOUND default.exp-tas.com
+	at GetAddrInfoReqWrap.onlookup [as oncomplete] (dns.js:67:26)
+[2021-10-25 20:58:05.014] [renderer1] [error] getaddrinfo ENOTFOUND default.exp-tas.com: Error: getaddrinfo ENOTFOUND default.exp-tas.com
+	at GetAddrInfoReqWrap.onlookup [as oncomplete] (dns.js:67:26)
+[2021-10-26 10:37:22.989] [renderer1] [error] getaddrinfo ENOTFOUND default.exp-tas.com: Error: getaddrinfo ENOTFOUND default.exp-tas.com
+	at GetAddrInfoReqWrap.onlookup [as oncomplete] (dns.js:67:26)
+[2021-10-26 11:07:21.633] [renderer1] [error] getaddrinfo ENOTFOUND default.exp-tas.com: Error: getaddrinfo ENOTFOUND default.exp-tas.com
+	at GetAddrInfoReqWrap.onlookup [as oncomplete] (dns.js:67:26)
+[2021-10-26 11:33:11.110] [renderer1] [error] 无法读取文件'git:/d:/Home/WeiYiacc/github/logseqdata/logseq/pages-metadata.edn?{"path":"d:\\Home\\WeiYiacc\\github\\logseqdata\\logseq\\pages-metadata.edn","ref":"~"}' (Error: 自以下时间未修改的文件:): Error: 无法读取文件'git:/d:/Home/WeiYiacc/github/logseqdata/logseq/pages-metadata.edn?{"path":"d:\\Home\\WeiYiacc\\github\\logseqdata\\logseq\\pages-metadata.edn","ref":"~"}' (Error: 自以下时间未修改的文件:)
+    at wi.doReadFileStream (vscode-file://vscode-app/d:/wingetapp/Microsoft%20VS%20Code/resources/app/out/vs/workbench/workbench.desktop.main.js:610:17038)
+    at processTicksAndRejections (internal/process/task_queues.js:93:5)
+    at async f.doRead (vscode-file://vscode-app/d:/wingetapp/Microsoft%20VS%20Code/resources/app/out/vs/workbench/workbench.desktop.main.js:2365:41836)
+    at async f.readStream (vscode-file://vscode-app/d:/wingetapp/Microsoft%20VS%20Code/resources/app/out/vs/workbench/workbench.desktop.main.js:2365:41557)
+    at async Ji.resolveFromFile (vscode-file://vscode-app/d:/wingetapp/Microsoft%20VS%20Code/resources/app/out/vs/workbench/workbench.desktop.main.js:2354:98223)
+[2021-10-26 11:37:21.708] [renderer1] [error] getaddrinfo ENOTFOUND default.exp-tas.com: Error: getaddrinfo ENOTFOUND default.exp-tas.com
+	at GetAddrInfoReqWrap.onlookup [as oncomplete] (dns.js:67:26)
+[2021-10-26 12:00:17.932] [renderer1] [error] [Extension Host] Error: EPERM: operation not permitted, watch
+	at FSEvent.FSWatcher._handle.onchange (internal/fs/watchers.js:178:28)
+[2021-10-26 12:07:21.640] [renderer1] [error] getaddrinfo ENOTFOUND default.exp-tas.com: Error: getaddrinfo ENOTFOUND default.exp-tas.com
+	at GetAddrInfoReqWrap.onlookup [as oncomplete] (dns.js:67:26)
+[2021-10-26 12:10:49.129] [renderer1] [error] spawn D:\wingetapp\git\cmd\git.exe ENOENT

@@ -1,0 +1,21 @@
+{ "time": "2021-10-21 16:51:49.1833", "level": "Info", "message": "start to initialize ioc" }
+{ "time": "2021-10-21 16:51:49.3588", "level": "Info", "message": "start to compose plugins" }
+{ "time": "2021-10-21 16:51:50.4332", "level": "Info", "message": "compose plugins successfully." }
+{ "time": "2021-10-21 16:51:50.4332", "level": "Info", "message": "initialize ioc completely" }
+{ "time": "2021-10-21 16:51:50.4332", "level": "Info", "message": "start to initialize addin" }
+{ "time": "2021-10-21 16:51:50.7632", "level": "Info", "message": "initialize addin completely" }
+{ "time": "2021-10-21 16:51:50.7632", "level": "Info", "message": "start up completely" }
+{ "time": "2021-10-21 16:51:51.5878", "level": "Info", "message": "start to initialize modules" }
+{ "time": "2021-10-21 16:51:54.3087", "level": "Info", "message": "start to initialize client" }
+{ "time": "2021-10-21 16:51:54.3087", "level": "Info", "message": "initialize client completely" }
+{ "time": "2021-10-21 16:51:54.3197", "level": "Info", "message": "hook ready and busy changed" }
+{ "time": "2021-10-21 16:51:54.3886", "level": "Info", "message": "start to open session" }
+{ "time": "2021-10-21 16:52:00.1254", "level": "Info", "message": "session is ready" }
+{ "time": "2021-10-21 16:52:00.6288", "level": "Info", "message": "open session completely" }
+{ "time": "2021-10-21 16:54:44.6432", "level": "Info", "message": "start to disconnect addin" }
+{ "time": "2021-10-21 16:54:44.6432", "level": "Info", "message": "start to finalize client" }
+{ "time": "2021-10-21 16:54:44.7334", "level": "Info", "message": "finalize client completely" }
+{ "time": "2021-10-21 16:54:44.7334", "level": "Info", "message": "start to finalize ioc" }
+{ "time": "2021-10-21 16:54:44.7334", "level": "Info", "message": "start to terminate modules" }
+{ "time": "2021-10-21 16:54:44.7749", "level": "Info", "message": "finalize ioc completely" }
+{ "time": "2021-10-21 16:54:44.8667", "level": "Info", "message": "disconnect addin completely" }

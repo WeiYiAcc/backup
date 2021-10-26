@@ -1,0 +1,38 @@
+> conda info --json
+Error 2021-10-25 16:34:08: Refresh should have already been triggered when activating discovery component
+> python -c "import sys;print(sys.executable)"
+> python -c "import sys;print(sys.executable)"
+> python -c "import sys;print(sys.executable)"
+> python -c "import sys;print(sys.executable)"
+> python -c "import sys;print(sys.executable)"
+正在启动 Pylance 语言服务器。
+Error 2021-10-25 16:34:09: Refresh should have already been triggered when activating discovery component
+Error 2021-10-25 16:34:09: Refresh should have already been triggered when activating discovery component
+Error 2021-10-25 16:34:09: Refresh should have already been triggered when activating discovery component
+Error 2021-10-25 16:34:09: Diagnostic Code: NoPythonInterpretersDiagnostic, Message: Python is not installed. Please download and install Python before using the extension.
+Diagnostic Code: NoPythonInterpretersDiagnostic, Message: Python is not installed. Please download and install Python before using the extension.
+Error 2021-10-25 16:34:12: Refresh should have already been triggered when activating discovery component
+> conda --version
+> python -c "import sys;print(sys.executable)"
+Error 2021-10-25 16:34:12: Refresh should have already been triggered when activating discovery component
+> python -c "import sys;print(sys.executable)"
+> python -c "import sys;print(sys.executable)"
+> python -c "import sys;print(sys.executable)"
+> python -c "import sys;print(sys.executable)"
+> python -c "import sys;print(sys.executable)"
+> python -c "import sys;print(sys.executable)"
+> python -c "import sys;print(sys.executable)"
+> python -c "import sys;print(sys.executable)"
+> python -c "import sys;print(sys.executable)"
+> python -c "import sys;print(sys.executable)"
+> python -c "import sys;print(sys.executable)"
+> python -c "import sys;print(sys.executable)"
+> python -c "import sys;print(sys.executable)"
+> python -c "import sys;print(sys.executable)"
+> python -c "import sys;print(sys.executable)"
+> python -c "import sys;print(sys.executable)"
+> python -c "import sys;print(sys.executable)"
+> python -c "import sys;print(sys.executable)"
+> python -c "import sys;print(sys.executable)"
+> python -c "import sys;print(sys.executable)"
+> python -c "import sys;print(sys.executable)"

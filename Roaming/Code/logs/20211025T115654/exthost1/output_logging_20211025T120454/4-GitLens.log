@@ -1,0 +1,1 @@
+[2021-10-25 04:04:54:990] [d:\Home\WeiYiacc\github] Git Command failed: D:\wingetapp\git\cmd\git.exe -c core.longpaths=true -c core.quotepath=false -c color.ui=false rev-parse --show-toplevel • not a git repository (or any of the parent directories): .git • 48 ms 

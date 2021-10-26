@@ -1,0 +1,19 @@
+[2021-10-21 22:10:16.199] [sharedprocess] [info] WSL is not installed, so could not detect WSL profiles
+[2021-10-21 22:10:16.294] [sharedprocess] [info] Deleted from disk shan.code-settings-sync c:\Users\WeiYi\.vscode\extensions\shan.code-settings-sync-3.4.3
+[2021-10-21 22:10:16.461] [sharedprocess] [info] WSL is not installed, so could not detect WSL profiles
+[2021-10-21 22:10:18.381] [sharedprocess] [info] WSL is not installed, so could not detect WSL profiles
+[2021-10-21 22:10:25.300] [sharedprocess] [info] [logs cleanup]: Starting to clean up old logs.
+[2021-10-21 22:10:25.304] [sharedprocess] [info] [logs cleanup]: Removing log folders '20211021T104338, 20211021T104404, 20211021T104516, 20211021T104632, 20211021T104753, 20211021T110142, 20211021T110442'
+[2021-10-21 22:10:45.302] [sharedprocess] [info] [code cache cleanup]: Starting to clean up old code cache folders.
+[2021-10-21 22:10:45.302] [sharedprocess] [info] [storage cleanup]: Starting to clean up storage folders.
+[2021-10-21 22:10:45.322] [sharedprocess] [info] [storage cleanup]: Deleting storage folder 1634784219440.
+[2021-10-21 22:10:55.356] [sharedprocess] [info] [language pack cache cleanup]: Starting to clean up unused language packs.
+[2021-10-21 22:10:55.369] [sharedprocess] [info] [language pack cache cleanup]: Skipping folder 641b9120268979c895e11c97f0a822f6.zh-cn. Language pack still in use.
+[2021-10-21 22:12:03.503] [sharedprocess] [info] WSL is not installed, so could not detect WSL profiles
+[2021-10-21 22:12:04.761] [sharedprocess] [info] WSL is not installed, so could not detect WSL profiles
+[2021-10-22 11:22:17.351] [sharedprocess] [warning] No ptyHost heartbeat after 6 seconds
+[2021-10-22 11:51:56.143] [sharedprocess] [warning] No ptyHost heartbeat after 6 seconds
+[2021-10-22 12:38:09.286] [sharedprocess] [warning] No ptyHost heartbeat after 6 seconds
+[2021-10-22 17:39:16.230] [sharedprocess] [warning] No ptyHost heartbeat after 6 seconds
+[2021-10-23 06:56:32.062] [sharedprocess] [warning] No ptyHost heartbeat after 6 seconds
+[2021-10-23 07:05:20.854] [sharedprocess] [warning] No ptyHost heartbeat after 6 seconds

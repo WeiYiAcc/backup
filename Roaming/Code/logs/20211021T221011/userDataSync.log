@@ -1,0 +1,239 @@
+[2021-10-21 22:10:15.385] [settingssync] [info] Using settings sync service https://vscode-sync.trafficmanager.net/
+[2021-10-21 22:10:15.385] [settingssync] [info] Auto Sync is enabled.
+[2021-10-21 22:10:15.385] [settingssync] [info] Auto Sync: Suspended until auth token is available.
+[2021-10-21 22:10:17.351] [settingssync] [info] Auto Sync: Started
+[2021-10-21 22:10:17.351] [settingssync] [info] Auto Sync: Triggered by Interval
+[2021-10-21 22:10:18.364] [settingssync] [info] Settings: No changes found during synchronizing settings.
+[2021-10-21 22:10:18.502] [settingssync] [info] Keybindings: No changes found during synchronizing keybindings.
+[2021-10-21 22:10:18.518] [settingssync] [info] Snippets: No changes found during synchronizing snippets.
+[2021-10-21 22:10:19.170] [settingssync] [info] GlobalState: Updated remote ui state
+[2021-10-21 22:10:19.176] [settingssync] [info] GlobalState: Updated last synchronized ui state
+[2021-10-21 22:10:19.264] [settingssync] [info] Extensions: No changes found during synchronizing extensions.
+[2021-10-21 22:10:19.264] [settingssync] [info] Sync done. Took 1002ms
+[2021-10-21 22:10:49.575] [settingssync] [info] Auto Sync: Triggered by Activity
+[2021-10-21 22:10:50.340] [settingssync] [info] Settings: No changes found during synchronizing settings.
+[2021-10-21 22:10:50.348] [settingssync] [info] Keybindings: No changes found during synchronizing keybindings.
+[2021-10-21 22:10:50.355] [settingssync] [info] Snippets: No changes found during synchronizing snippets.
+[2021-10-21 22:10:50.435] [settingssync] [info] GlobalState: No changes found during synchronizing ui state.
+[2021-10-21 22:10:50.657] [settingssync] [info] Extensions: No changes found during synchronizing extensions.
+[2021-10-21 22:10:50.659] [settingssync] [info] Sync done. Took 328ms
+[2021-10-21 22:11:12.772] [settingssync] [info] Auto Sync: Triggered by Activity
+[2021-10-21 22:11:13.062] [settingssync] [info] Settings: No changes found during synchronizing settings.
+[2021-10-21 22:11:13.068] [settingssync] [info] Keybindings: No changes found during synchronizing keybindings.
+[2021-10-21 22:11:13.074] [settingssync] [info] Snippets: No changes found during synchronizing snippets.
+[2021-10-21 22:11:13.108] [settingssync] [info] GlobalState: No changes found during synchronizing ui state.
+[2021-10-21 22:11:13.194] [settingssync] [info] Extensions: No changes found during synchronizing extensions.
+[2021-10-21 22:11:13.194] [settingssync] [info] Sync done. Took 141ms
+[2021-10-21 22:11:28.799] [settingssync] [info] Auto Sync: Triggered by Activity
+[2021-10-21 22:11:34.635] [settingssync] [info] Settings: No changes found during synchronizing settings.
+[2021-10-21 22:11:34.638] [settingssync] [info] Keybindings: No changes found during synchronizing keybindings.
+[2021-10-21 22:11:34.641] [settingssync] [info] Snippets: No changes found during synchronizing snippets.
+[2021-10-21 22:11:34.680] [settingssync] [info] GlobalState: No changes found during synchronizing ui state.
+[2021-10-21 22:11:34.885] [settingssync] [info] Extensions: No changes found during synchronizing extensions.
+[2021-10-21 22:11:34.887] [settingssync] [info] Sync done. Took 256ms
+[2021-10-21 22:11:46.742] [settingssync] [info] Auto Sync: Triggered by Activity
+[2021-10-21 22:11:47.536] [settingssync] [info] Settings: No changes found during synchronizing settings.
+[2021-10-21 22:11:47.541] [settingssync] [info] Keybindings: No changes found during synchronizing keybindings.
+[2021-10-21 22:11:47.547] [settingssync] [info] Snippets: No changes found during synchronizing snippets.
+[2021-10-21 22:11:47.597] [settingssync] [info] GlobalState: No changes found during synchronizing ui state.
+[2021-10-21 22:11:47.798] [settingssync] [info] Extensions: No changes found during synchronizing extensions.
+[2021-10-21 22:11:47.800] [settingssync] [info] Sync done. Took 268ms
+[2021-10-21 22:12:05.301] [settingssync] [info] Auto Sync: Triggered by Activity
+[2021-10-21 22:12:05.532] [settingssync] [info] Settings: No changes found during synchronizing settings.
+[2021-10-21 22:12:05.537] [settingssync] [info] Keybindings: No changes found during synchronizing keybindings.
+[2021-10-21 22:12:05.542] [settingssync] [info] Snippets: No changes found during synchronizing snippets.
+[2021-10-21 22:12:06.134] [settingssync] [info] GlobalState: Updated remote ui state
+[2021-10-21 22:12:06.139] [settingssync] [info] GlobalState: Updated last synchronized ui state
+[2021-10-21 22:12:06.233] [settingssync] [info] Extensions: No changes found during synchronizing extensions.
+[2021-10-21 22:12:06.235] [settingssync] [info] Sync done. Took 713ms
+[2021-10-21 22:12:06.353] [settingssync] [info] Auto Sync: Triggered by Activity
+[2021-10-21 22:12:06.652] [settingssync] [info] Settings: No changes found during synchronizing settings.
+[2021-10-21 22:12:06.665] [settingssync] [info] Keybindings: No changes found during synchronizing keybindings.
+[2021-10-21 22:12:06.671] [settingssync] [info] Snippets: No changes found during synchronizing snippets.
+[2021-10-21 22:12:06.699] [settingssync] [info] GlobalState: No changes found during synchronizing ui state.
+[2021-10-21 22:12:06.762] [settingssync] [info] Extensions: No changes found during synchronizing extensions.
+[2021-10-21 22:12:06.775] [settingssync] [info] Sync done. Took 128ms
+[2021-10-21 22:12:14.570] [settingssync] [info] Auto Sync: Triggered by Activity
+[2021-10-21 22:12:15.056] [settingssync] [info] Settings: No changes found during synchronizing settings.
+[2021-10-21 22:12:15.063] [settingssync] [info] Keybindings: No changes found during synchronizing keybindings.
+[2021-10-21 22:12:15.070] [settingssync] [info] Snippets: No changes found during synchronizing snippets.
+[2021-10-21 22:12:15.868] [settingssync] [info] GlobalState: Updated remote ui state
+[2021-10-21 22:12:15.908] [settingssync] [info] GlobalState: Updated last synchronized ui state
+[2021-10-21 22:12:16.004] [settingssync] [info] Extensions: No changes found during synchronizing extensions.
+[2021-10-21 22:12:16.005] [settingssync] [info] Sync done. Took 963ms
+[2021-10-21 22:13:10.088] [settingssync] [info] Auto Sync: Triggered by Activity
+[2021-10-21 22:13:10.451] [settingssync] [info] Settings: No changes found during synchronizing settings.
+[2021-10-21 22:13:10.458] [settingssync] [info] Keybindings: No changes found during synchronizing keybindings.
+[2021-10-21 22:13:10.463] [settingssync] [info] Snippets: No changes found during synchronizing snippets.
+[2021-10-21 22:13:10.526] [settingssync] [info] GlobalState: No changes found during synchronizing ui state.
+[2021-10-21 22:13:10.723] [settingssync] [info] Extensions: No changes found during synchronizing extensions.
+[2021-10-21 22:13:10.734] [settingssync] [info] Sync done. Took 290ms
+[2021-10-21 22:13:39.177] [settingssync] [info] Auto Sync: Triggered by Activity
+[2021-10-21 22:13:39.545] [settingssync] [info] Settings: No changes found during synchronizing settings.
+[2021-10-21 22:13:39.550] [settingssync] [info] Keybindings: No changes found during synchronizing keybindings.
+[2021-10-21 22:13:39.553] [settingssync] [info] Snippets: No changes found during synchronizing snippets.
+[2021-10-21 22:13:39.590] [settingssync] [info] GlobalState: No changes found during synchronizing ui state.
+[2021-10-21 22:13:39.664] [settingssync] [info] Extensions: No changes found during synchronizing extensions.
+[2021-10-21 22:13:39.669] [settingssync] [info] Sync done. Took 140ms
+[2021-10-21 22:14:14.230] [settingssync] [info] Auto Sync: Triggered by Activity
+[2021-10-21 22:14:14.662] [settingssync] [info] Settings: No changes found during synchronizing settings.
+[2021-10-21 22:14:14.671] [settingssync] [info] Keybindings: No changes found during synchronizing keybindings.
+[2021-10-21 22:14:14.680] [settingssync] [info] Snippets: No changes found during synchronizing snippets.
+[2021-10-21 22:14:14.734] [settingssync] [info] GlobalState: No changes found during synchronizing ui state.
+[2021-10-21 22:14:14.865] [settingssync] [info] Extensions: No changes found during synchronizing extensions.
+[2021-10-21 22:14:14.875] [settingssync] [info] Sync done. Took 226ms
+[2021-10-22 11:22:17.392] [settingssync] [info] Auto Sync: Triggered by Interval
+[2021-10-22 11:22:17.418] [settingssync] [info] Request failed https://vscode-sync.trafficmanager.net/v1/manifest
+[2021-10-22 11:22:17.419] [settingssync] [error] RequestFailed (UserDataSyncError) syncResource:unknown operationId:unknown: Connection refused for the request 'https://vscode-sync.trafficmanager.net/v1/manifest'.
+    at m.request (vscode-file://vscode-app/d:/wingetapp/Microsoft%20VS%20Code/resources/app/out/vs/code/electron-browser/sharedProcess/sharedProcessMain.js:76:173289)
+    at async manifest (vscode-file://vscode-app/d:/wingetapp/Microsoft%20VS%20Code/resources/app/out/vs/code/electron-browser/sharedProcess/sharedProcessMain.js:76:171014)
+    at async o.createSyncTask (vscode-file://vscode-app/d:/wingetapp/Microsoft%20VS%20Code/resources/app/out/vs/code/electron-browser/sharedProcess/sharedProcessMain.js:76:141881)
+    at async a.doSync (vscode-file://vscode-app/d:/wingetapp/Microsoft%20VS%20Code/resources/app/out/vs/code/electron-browser/sharedProcess/sharedProcessMain.js:76:136268)
+[2021-10-22 11:22:17.447] [settingssync] [error] RequestFailed (UserDataSyncError) syncResource:unknown operationId:unknown: Connection refused for the request 'https://vscode-sync.trafficmanager.net/v1/manifest'.
+    at m.request (vscode-file://vscode-app/d:/wingetapp/Microsoft%20VS%20Code/resources/app/out/vs/code/electron-browser/sharedProcess/sharedProcessMain.js:76:173289)
+    at async manifest (vscode-file://vscode-app/d:/wingetapp/Microsoft%20VS%20Code/resources/app/out/vs/code/electron-browser/sharedProcess/sharedProcessMain.js:76:171014)
+    at async o.createSyncTask (vscode-file://vscode-app/d:/wingetapp/Microsoft%20VS%20Code/resources/app/out/vs/code/electron-browser/sharedProcess/sharedProcessMain.js:76:141881)
+    at async a.doSync (vscode-file://vscode-app/d:/wingetapp/Microsoft%20VS%20Code/resources/app/out/vs/code/electron-browser/sharedProcess/sharedProcessMain.js:76:136268)
+[2021-10-22 11:27:17.477] [settingssync] [info] Auto Sync: Triggered by Interval
+[2021-10-22 11:27:19.016] [settingssync] [info] Settings: No changes found during synchronizing settings.
+[2021-10-22 11:27:19.039] [settingssync] [info] Keybindings: No changes found during synchronizing keybindings.
+[2021-10-22 11:27:19.056] [settingssync] [info] Snippets: No changes found during synchronizing snippets.
+[2021-10-22 11:27:19.151] [settingssync] [info] GlobalState: No changes found during synchronizing ui state.
+[2021-10-22 11:27:19.704] [settingssync] [info] Extensions: No changes found during synchronizing extensions.
+[2021-10-22 11:27:19.711] [settingssync] [info] Sync done. Took 757ms
+[2021-10-22 11:32:19.722] [settingssync] [info] Auto Sync: Triggered by Interval
+[2021-10-22 11:32:23.221] [settingssync] [info] Settings: No changes found during synchronizing settings.
+[2021-10-22 11:32:23.227] [settingssync] [info] Keybindings: No changes found during synchronizing keybindings.
+[2021-10-22 11:32:23.232] [settingssync] [info] Snippets: No changes found during synchronizing snippets.
+[2021-10-22 11:32:23.286] [settingssync] [info] GlobalState: No changes found during synchronizing ui state.
+[2021-10-22 11:32:23.466] [settingssync] [info] Extensions: No changes found during synchronizing extensions.
+[2021-10-22 11:32:23.480] [settingssync] [info] Sync done. Took 267ms
+[2021-10-22 11:37:23.502] [settingssync] [info] Auto Sync: Triggered by Interval
+[2021-10-22 11:37:25.655] [settingssync] [info] Settings: No changes found during synchronizing settings.
+[2021-10-22 11:37:25.659] [settingssync] [info] Keybindings: No changes found during synchronizing keybindings.
+[2021-10-22 11:37:25.663] [settingssync] [info] Snippets: No changes found during synchronizing snippets.
+[2021-10-22 11:37:25.775] [settingssync] [info] GlobalState: No changes found during synchronizing ui state.
+[2021-10-22 11:37:25.954] [settingssync] [info] Extensions: No changes found during synchronizing extensions.
+[2021-10-22 11:37:25.967] [settingssync] [info] Sync done. Took 327ms
+[2021-10-22 11:42:25.978] [settingssync] [info] Auto Sync: Triggered by Interval
+[2021-10-22 11:42:28.364] [settingssync] [info] Settings: No changes found during synchronizing settings.
+[2021-10-22 11:42:28.376] [settingssync] [info] Keybindings: No changes found during synchronizing keybindings.
+[2021-10-22 11:42:28.383] [settingssync] [info] Snippets: No changes found during synchronizing snippets.
+[2021-10-22 11:42:28.448] [settingssync] [info] GlobalState: No changes found during synchronizing ui state.
+[2021-10-22 11:42:28.629] [settingssync] [info] Extensions: No changes found during synchronizing extensions.
+[2021-10-22 11:42:28.642] [settingssync] [info] Sync done. Took 295ms
+[2021-10-22 11:47:28.657] [settingssync] [info] Auto Sync: Triggered by Interval
+[2021-10-22 11:47:30.584] [settingssync] [info] Settings: No changes found during synchronizing settings.
+[2021-10-22 11:47:30.592] [settingssync] [info] Keybindings: No changes found during synchronizing keybindings.
+[2021-10-22 11:47:30.599] [settingssync] [info] Snippets: No changes found during synchronizing snippets.
+[2021-10-22 11:47:30.687] [settingssync] [info] GlobalState: No changes found during synchronizing ui state.
+[2021-10-22 11:47:30.860] [settingssync] [info] Extensions: No changes found during synchronizing extensions.
+[2021-10-22 11:47:30.874] [settingssync] [info] Sync done. Took 305ms
+[2021-10-22 11:52:30.860] [settingssync] [info] Auto Sync: Triggered by Interval
+[2021-10-22 11:52:32.622] [settingssync] [info] Settings: No changes found during synchronizing settings.
+[2021-10-22 11:52:32.625] [settingssync] [info] Keybindings: No changes found during synchronizing keybindings.
+[2021-10-22 11:52:32.628] [settingssync] [info] Snippets: No changes found during synchronizing snippets.
+[2021-10-22 11:52:32.707] [settingssync] [info] GlobalState: No changes found during synchronizing ui state.
+[2021-10-22 11:52:32.770] [settingssync] [info] Extensions: No changes found during synchronizing extensions.
+[2021-10-22 11:52:32.777] [settingssync] [info] Sync done. Took 161ms
+[2021-10-22 11:57:32.786] [settingssync] [info] Auto Sync: Triggered by Interval
+[2021-10-22 11:57:34.951] [settingssync] [info] Settings: No changes found during synchronizing settings.
+[2021-10-22 11:57:34.963] [settingssync] [info] Keybindings: No changes found during synchronizing keybindings.
+[2021-10-22 11:57:34.974] [settingssync] [info] Snippets: No changes found during synchronizing snippets.
+[2021-10-22 11:57:35.070] [settingssync] [info] GlobalState: No changes found during synchronizing ui state.
+[2021-10-22 11:57:35.256] [settingssync] [info] Extensions: No changes found during synchronizing extensions.
+[2021-10-22 11:57:35.268] [settingssync] [info] Sync done. Took 336ms
+[2021-10-22 12:38:09.490] [settingssync] [info] Auto Sync: Triggered by Interval
+[2021-10-22 12:38:12.337] [settingssync] [info] Request failed https://vscode-sync.trafficmanager.net/v1/manifest
+[2021-10-22 12:38:12.338] [settingssync] [error] RequestFailed (UserDataSyncError) syncResource:unknown operationId:unknown: Connection refused for the request 'https://vscode-sync.trafficmanager.net/v1/manifest'.
+    at m.request (vscode-file://vscode-app/d:/wingetapp/Microsoft%20VS%20Code/resources/app/out/vs/code/electron-browser/sharedProcess/sharedProcessMain.js:76:173289)
+    at async manifest (vscode-file://vscode-app/d:/wingetapp/Microsoft%20VS%20Code/resources/app/out/vs/code/electron-browser/sharedProcess/sharedProcessMain.js:76:171014)
+    at async o.createSyncTask (vscode-file://vscode-app/d:/wingetapp/Microsoft%20VS%20Code/resources/app/out/vs/code/electron-browser/sharedProcess/sharedProcessMain.js:76:141881)
+    at async a.doSync (vscode-file://vscode-app/d:/wingetapp/Microsoft%20VS%20Code/resources/app/out/vs/code/electron-browser/sharedProcess/sharedProcessMain.js:76:136268)
+[2021-10-22 12:38:12.338] [settingssync] [error] RequestFailed (UserDataSyncError) syncResource:unknown operationId:unknown: Connection refused for the request 'https://vscode-sync.trafficmanager.net/v1/manifest'.
+    at m.request (vscode-file://vscode-app/d:/wingetapp/Microsoft%20VS%20Code/resources/app/out/vs/code/electron-browser/sharedProcess/sharedProcessMain.js:76:173289)
+    at async manifest (vscode-file://vscode-app/d:/wingetapp/Microsoft%20VS%20Code/resources/app/out/vs/code/electron-browser/sharedProcess/sharedProcessMain.js:76:171014)
+    at async o.createSyncTask (vscode-file://vscode-app/d:/wingetapp/Microsoft%20VS%20Code/resources/app/out/vs/code/electron-browser/sharedProcess/sharedProcessMain.js:76:141881)
+    at async a.doSync (vscode-file://vscode-app/d:/wingetapp/Microsoft%20VS%20Code/resources/app/out/vs/code/electron-browser/sharedProcess/sharedProcessMain.js:76:136268)
+[2021-10-22 12:43:12.356] [settingssync] [info] Auto Sync: Triggered by Interval
+[2021-10-22 12:43:14.292] [settingssync] [info] Settings: No changes found during synchronizing settings.
+[2021-10-22 12:43:14.300] [settingssync] [info] Keybindings: No changes found during synchronizing keybindings.
+[2021-10-22 12:43:14.306] [settingssync] [info] Snippets: No changes found during synchronizing snippets.
+[2021-10-22 12:43:14.387] [settingssync] [info] GlobalState: No changes found during synchronizing ui state.
+[2021-10-22 12:43:14.581] [settingssync] [info] Extensions: No changes found during synchronizing extensions.
+[2021-10-22 12:43:14.637] [settingssync] [info] Sync done. Took 378ms
+[2021-10-22 12:48:14.645] [settingssync] [info] Auto Sync: Triggered by Interval
+[2021-10-22 12:48:16.300] [settingssync] [info] Settings: No changes found during synchronizing settings.
+[2021-10-22 12:48:16.303] [settingssync] [info] Keybindings: No changes found during synchronizing keybindings.
+[2021-10-22 12:48:16.307] [settingssync] [info] Snippets: No changes found during synchronizing snippets.
+[2021-10-22 12:48:16.348] [settingssync] [info] GlobalState: No changes found during synchronizing ui state.
+[2021-10-22 12:48:16.449] [settingssync] [info] Extensions: No changes found during synchronizing extensions.
+[2021-10-22 12:48:16.455] [settingssync] [info] Sync done. Took 159ms
+[2021-10-22 17:39:16.237] [settingssync] [info] Auto Sync: Triggered by Interval
+[2021-10-22 17:39:19.067] [settingssync] [info] Settings: No changes found during synchronizing settings.
+[2021-10-22 17:39:19.071] [settingssync] [info] Keybindings: No changes found during synchronizing keybindings.
+[2021-10-22 17:39:19.075] [settingssync] [info] Snippets: No changes found during synchronizing snippets.
+[2021-10-22 17:39:19.152] [settingssync] [info] GlobalState: No changes found during synchronizing ui state.
+[2021-10-22 17:39:19.311] [settingssync] [info] Extensions: No changes found during synchronizing extensions.
+[2021-10-22 17:39:19.321] [settingssync] [info] Sync done. Took 266ms
+[2021-10-22 17:44:19.333] [settingssync] [info] Auto Sync: Triggered by Interval
+[2021-10-22 17:44:20.919] [settingssync] [info] Settings: No changes found during synchronizing settings.
+[2021-10-22 17:44:20.929] [settingssync] [info] Keybindings: No changes found during synchronizing keybindings.
+[2021-10-22 17:44:20.939] [settingssync] [info] Snippets: No changes found during synchronizing snippets.
+[2021-10-22 17:44:20.977] [settingssync] [info] GlobalState: No changes found during synchronizing ui state.
+[2021-10-22 17:44:21.046] [settingssync] [info] Extensions: No changes found during synchronizing extensions.
+[2021-10-22 17:44:21.051] [settingssync] [info] Sync done. Took 143ms
+[2021-10-22 17:49:21.054] [settingssync] [info] Auto Sync: Triggered by Interval
+[2021-10-22 17:49:22.557] [settingssync] [info] Settings: No changes found during synchronizing settings.
+[2021-10-22 17:49:22.567] [settingssync] [info] Keybindings: No changes found during synchronizing keybindings.
+[2021-10-22 17:49:22.575] [settingssync] [info] Snippets: No changes found during synchronizing snippets.
+[2021-10-22 17:49:22.620] [settingssync] [info] GlobalState: No changes found during synchronizing ui state.
+[2021-10-22 17:49:22.683] [settingssync] [info] Extensions: No changes found during synchronizing extensions.
+[2021-10-22 17:49:22.687] [settingssync] [info] Sync done. Took 144ms
+[2021-10-22 17:54:22.700] [settingssync] [info] Auto Sync: Triggered by Interval
+[2021-10-22 17:54:24.347] [settingssync] [info] Settings: No changes found during synchronizing settings.
+[2021-10-22 17:54:24.361] [settingssync] [info] Keybindings: No changes found during synchronizing keybindings.
+[2021-10-22 17:54:24.370] [settingssync] [info] Snippets: No changes found during synchronizing snippets.
+[2021-10-22 17:54:24.413] [settingssync] [info] GlobalState: No changes found during synchronizing ui state.
+[2021-10-22 17:54:24.479] [settingssync] [info] Extensions: No changes found during synchronizing extensions.
+[2021-10-22 17:54:24.480] [settingssync] [info] Sync done. Took 160ms
+[2021-10-22 17:59:24.486] [settingssync] [info] Auto Sync: Triggered by Interval
+[2021-10-22 17:59:26.227] [settingssync] [info] Settings: No changes found during synchronizing settings.
+[2021-10-22 17:59:26.237] [settingssync] [info] Keybindings: No changes found during synchronizing keybindings.
+[2021-10-22 17:59:26.246] [settingssync] [info] Snippets: No changes found during synchronizing snippets.
+[2021-10-22 17:59:26.293] [settingssync] [info] GlobalState: No changes found during synchronizing ui state.
+[2021-10-22 17:59:26.364] [settingssync] [info] Extensions: No changes found during synchronizing extensions.
+[2021-10-22 17:59:26.367] [settingssync] [info] Sync done. Took 153ms
+[2021-10-22 18:04:26.372] [settingssync] [info] Auto Sync: Triggered by Interval
+[2021-10-22 18:04:27.913] [settingssync] [info] Settings: No changes found during synchronizing settings.
+[2021-10-22 18:04:27.916] [settingssync] [info] Keybindings: No changes found during synchronizing keybindings.
+[2021-10-22 18:04:27.917] [settingssync] [info] Snippets: No changes found during synchronizing snippets.
+[2021-10-22 18:04:27.952] [settingssync] [info] GlobalState: No changes found during synchronizing ui state.
+[2021-10-22 18:04:28.014] [settingssync] [info] Extensions: No changes found during synchronizing extensions.
+[2021-10-22 18:04:28.016] [settingssync] [info] Sync done. Took 107ms
+[2021-10-23 06:56:32.069] [settingssync] [info] Auto Sync: Triggered by Interval
+[2021-10-23 06:56:32.083] [settingssync] [info] Request failed https://vscode-sync.trafficmanager.net/v1/manifest
+[2021-10-23 06:56:32.100] [settingssync] [error] RequestFailed (UserDataSyncError) syncResource:unknown operationId:unknown: Connection refused for the request 'https://vscode-sync.trafficmanager.net/v1/manifest'.
+    at m.request (vscode-file://vscode-app/d:/wingetapp/Microsoft%20VS%20Code/resources/app/out/vs/code/electron-browser/sharedProcess/sharedProcessMain.js:76:173289)
+    at async manifest (vscode-file://vscode-app/d:/wingetapp/Microsoft%20VS%20Code/resources/app/out/vs/code/electron-browser/sharedProcess/sharedProcessMain.js:76:171014)
+    at async o.createSyncTask (vscode-file://vscode-app/d:/wingetapp/Microsoft%20VS%20Code/resources/app/out/vs/code/electron-browser/sharedProcess/sharedProcessMain.js:76:141881)
+    at async a.doSync (vscode-file://vscode-app/d:/wingetapp/Microsoft%20VS%20Code/resources/app/out/vs/code/electron-browser/sharedProcess/sharedProcessMain.js:76:136268)
+[2021-10-23 06:56:32.101] [settingssync] [error] RequestFailed (UserDataSyncError) syncResource:unknown operationId:unknown: Connection refused for the request 'https://vscode-sync.trafficmanager.net/v1/manifest'.
+    at m.request (vscode-file://vscode-app/d:/wingetapp/Microsoft%20VS%20Code/resources/app/out/vs/code/electron-browser/sharedProcess/sharedProcessMain.js:76:173289)
+    at async manifest (vscode-file://vscode-app/d:/wingetapp/Microsoft%20VS%20Code/resources/app/out/vs/code/electron-browser/sharedProcess/sharedProcessMain.js:76:171014)
+    at async o.createSyncTask (vscode-file://vscode-app/d:/wingetapp/Microsoft%20VS%20Code/resources/app/out/vs/code/electron-browser/sharedProcess/sharedProcessMain.js:76:141881)
+    at async a.doSync (vscode-file://vscode-app/d:/wingetapp/Microsoft%20VS%20Code/resources/app/out/vs/code/electron-browser/sharedProcess/sharedProcessMain.js:76:136268)
+[2021-10-23 07:01:25.986] [settingssync] [info] Auto Sync: Triggered by Interval
+[2021-10-23 07:01:26.760] [settingssync] [info] Settings: No changes found during synchronizing settings.
+[2021-10-23 07:01:26.763] [settingssync] [info] Keybindings: No changes found during synchronizing keybindings.
+[2021-10-23 07:01:26.763] [settingssync] [info] Snippets: No changes found during synchronizing snippets.
+[2021-10-23 07:01:26.851] [settingssync] [info] GlobalState: No changes found during synchronizing ui state.
+[2021-10-23 07:01:27.022] [settingssync] [info] Extensions: No changes found during synchronizing extensions.
+[2021-10-23 07:01:27.029] [settingssync] [info] Sync done. Took 314ms
+[2021-10-23 07:06:24.523] [settingssync] [info] Auto Sync: Triggered by Interval
+[2021-10-23 07:06:24.897] [settingssync] [info] Settings: No changes found during synchronizing settings.
+[2021-10-23 07:06:24.901] [settingssync] [info] Keybindings: No changes found during synchronizing keybindings.
+[2021-10-23 07:06:24.904] [settingssync] [info] Snippets: No changes found during synchronizing snippets.
+[2021-10-23 07:06:24.931] [settingssync] [info] GlobalState: No changes found during synchronizing ui state.
+[2021-10-23 07:06:24.997] [settingssync] [info] Extensions: No changes found during synchronizing extensions.
+[2021-10-23 07:06:24.999] [settingssync] [info] Sync done. Took 107ms

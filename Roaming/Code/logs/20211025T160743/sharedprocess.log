@@ -1,0 +1,26 @@
+[2021-10-25 16:07:48.698] [sharedprocess] [info] WSL is not installed, so could not detect WSL profiles
+[2021-10-25 16:07:49.206] [sharedprocess] [info] Deleted from disk james-yu.latex-workshop c:\Users\WeiYi\.vscode\extensions\james-yu.latex-workshop-8.21.0
+[2021-10-25 16:07:49.251] [sharedprocess] [info] WSL is not installed, so could not detect WSL profiles
+[2021-10-25 16:07:50.797] [sharedprocess] [info] WSL is not installed, so could not detect WSL profiles
+[2021-10-25 16:07:57.202] [sharedprocess] [info] [logs cleanup]: Starting to clean up old logs.
+[2021-10-25 16:07:57.204] [sharedprocess] [info] [logs cleanup]: Removing log folders '20211021T111441, 20211021T111604'
+[2021-10-25 16:08:17.212] [sharedprocess] [info] [code cache cleanup]: Starting to clean up old code cache folders.
+[2021-10-25 16:08:17.213] [sharedprocess] [info] [storage cleanup]: Starting to clean up storage folders.
+[2021-10-25 16:08:27.211] [sharedprocess] [info] [language pack cache cleanup]: Starting to clean up unused language packs.
+[2021-10-25 16:08:27.256] [sharedprocess] [info] [language pack cache cleanup]: Skipping folder 641b9120268979c895e11c97f0a822f6.zh-cn. Language pack still in use.
+[2021-10-25 16:10:25.925] [sharedprocess] [info] WSL is not installed, so could not detect WSL profiles
+[2021-10-25 16:10:27.954] [sharedprocess] [info] WSL is not installed, so could not detect WSL profiles
+[2021-10-25 17:51:10.007] [sharedprocess] [warning] No ptyHost heartbeat after 6 seconds
+[2021-10-25 20:58:04.123] [sharedprocess] [warning] No ptyHost heartbeat after 6 seconds
+[2021-10-26 10:37:21.873] [sharedprocess] [warning] No ptyHost heartbeat after 6 seconds
+[2021-10-26 11:35:07.484] [sharedprocess] [info] WSL is not installed, so could not detect WSL profiles
+[2021-10-26 11:35:09.298] [sharedprocess] [info] WSL is not installed, so could not detect WSL profiles
+[2021-10-26 11:35:42.294] [sharedprocess] [info] WSL is not installed, so could not detect WSL profiles
+[2021-10-26 11:35:44.424] [sharedprocess] [info] WSL is not installed, so could not detect WSL profiles
+[2021-10-26 11:35:46.352] [sharedprocess] [info] WSL is not installed, so could not detect WSL profiles
+[2021-10-26 11:47:17.607] [sharedprocess] [info] WSL is not installed, so could not detect WSL profiles
+[2021-10-26 11:47:19.693] [sharedprocess] [info] WSL is not installed, so could not detect WSL profiles
+[2021-10-26 12:32:24.724] [sharedprocess] [info] WSL is not installed, so could not detect WSL profiles
+[2021-10-26 12:32:27.523] [sharedprocess] [info] WSL is not installed, so could not detect WSL profiles
+[2021-10-26 12:34:24.642] [sharedprocess] [info] WSL is not installed, so could not detect WSL profiles
+[2021-10-26 12:34:26.664] [sharedprocess] [info] WSL is not installed, so could not detect WSL profiles

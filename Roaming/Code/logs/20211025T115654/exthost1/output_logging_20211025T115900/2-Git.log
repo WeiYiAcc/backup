@@ -1,0 +1,257 @@
+正在验证在以下位置中找到的 git: C:\Program Files\Git\cmd\git.exe
+正在验证在以下位置中找到的 git: C:\Program Files (x86)\Git\cmd\git.exe
+正在验证在以下位置中找到的 git: C:\Program Files\Git\cmd\git.exe
+正在验证在以下位置中找到的 git: C:\Users\WeiYi\AppData\Local\Programs\Git\cmd\git.exe
+正在验证在以下位置中找到的 git: D:\wingetapp\git\cmd\git.exe
+将使用位于 D:\wingetapp\git\cmd\git.exe 的 Git 2.33.1.windows.1
+Opening repository for path='d:\Home\WeiYiacc\github' failed; ex=Failed to execute git {
+  "exitCode": 128,
+  "gitErrorCode": "NotAGitRepository",
+  "gitCommand": "rev-parse",
+  "stdout": "",
+  "stderr": "fatal: not a git repository (or any of the parent directories): .git\n"
+}
+> git rev-parse --git-dir
+Open repository: d:\Home\WeiYiacc\github\backup
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/main refs/remotes/main
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+Warning: Failed to watch ref 'd:\Home\WeiYiacc\github\backup\.git\refs\remotes\origin\main', is most likely packed.
+> git config --get commit.template
+> git rev-parse --git-dir
+Open repository: d:\Home\WeiYiacc\github\logseqdata
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/master refs/remotes/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git rev-parse --git-dir
+Open repository: d:\Home\WeiYiacc\github\SuperMemo18.05
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/master refs/remotes/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git rev-parse --git-dir
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+Open repository: d:\Home\WeiYiacc\github\WeiYiAcc-test
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/main refs/remotes/main
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+Warning: Failed to watch ref 'd:\Home\WeiYiacc\github\WeiYiAcc-test\.git\refs\remotes\origin\main', is most likely packed.
+> git config --get commit.template
+Opening repository for path='d:\Home\WeiYiacc\github\workspace' failed; ex=Failed to execute git {
+  "exitCode": 128,
+  "gitErrorCode": "NotAGitRepository",
+  "gitCommand": "rev-parse",
+  "stdout": "",
+  "stderr": "fatal: not a git repository (or any of the parent directories): .git\n"
+}
+Opening repository for path='d:\Home\WeiYiacc\github\第一节 统计量与抽样分布.pdf' failed; ex=spawn D:\wingetapp\git\cmd\git.exe ENOENT {
+  "gitErrorCode": "NotAGitRepository"
+}Error: spawn D:\wingetapp\git\cmd\git.exe ENOENT
+	at Process.ChildProcess._handle.onexit (internal/child_process.js:269:19)
+	at onErrorNT (internal/child_process.js:465:16)
+	at processTicksAndRejections (internal/process/task_queues.js:80:21)
+Opening repository for path='d:\Home\WeiYiacc\github' failed; ex=Failed to execute git {
+  "exitCode": 128,
+  "gitErrorCode": "NotAGitRepository",
+  "gitCommand": "rev-parse",
+  "stdout": "",
+  "stderr": "fatal: not a git repository (or any of the parent directories): .git\n"
+}
+Opening repository for path='d:\Home\WeiYiacc\github' failed; ex=Failed to execute git {
+  "exitCode": 128,
+  "gitErrorCode": "NotAGitRepository",
+  "gitCommand": "rev-parse",
+  "stdout": "",
+  "stderr": "fatal: not a git repository (or any of the parent directories): .git\n"
+}
+Opening repository for path='d:\Home\WeiYiacc\github' failed; ex=Failed to execute git {
+  "exitCode": 128,
+  "gitErrorCode": "NotAGitRepository",
+  "gitCommand": "rev-parse",
+  "stdout": "",
+  "stderr": "fatal: not a git repository (or any of the parent directories): .git\n"
+}
+Opening repository for path='d:\Home\WeiYiacc\github' failed; ex=Failed to execute git {
+  "exitCode": 128,
+  "gitErrorCode": "NotAGitRepository",
+  "gitCommand": "rev-parse",
+  "stdout": "",
+  "stderr": "fatal: not a git repository (or any of the parent directories): .git\n"
+}
+Opening repository for path='d:\Home\WeiYiacc\github' failed; ex=Failed to execute git {
+  "exitCode": 128,
+  "gitErrorCode": "NotAGitRepository",
+  "gitCommand": "rev-parse",
+  "stdout": "",
+  "stderr": "fatal: not a git repository (or any of the parent directories): .git\n"
+}
+Opening repository for path='d:\Home\WeiYiacc\github' failed; ex=Failed to execute git {
+  "exitCode": 128,
+  "gitErrorCode": "NotAGitRepository",
+  "gitCommand": "rev-parse",
+  "stdout": "",
+  "stderr": "fatal: not a git repository (or any of the parent directories): .git\n"
+}
+Opening repository for path='d:\Home\WeiYiacc\github' failed; ex=Failed to execute git {
+  "exitCode": 128,
+  "gitErrorCode": "NotAGitRepository",
+  "gitCommand": "rev-parse",
+  "stdout": "",
+  "stderr": "fatal: not a git repository (or any of the parent directories): .git\n"
+}
+Opening repository for path='d:\Home\WeiYiacc\github' failed; ex=Failed to execute git {
+  "exitCode": 128,
+  "gitErrorCode": "NotAGitRepository",
+  "gitCommand": "rev-parse",
+  "stdout": "",
+  "stderr": "fatal: not a git repository (or any of the parent directories): .git\n"
+}
+Opening repository for path='d:\Home\WeiYiacc\github' failed; ex=Failed to execute git {
+  "exitCode": 128,
+  "gitErrorCode": "NotAGitRepository",
+  "gitCommand": "rev-parse",
+  "stdout": "",
+  "stderr": "fatal: not a git repository (or any of the parent directories): .git\n"
+}
+Opening repository for path='d:\Home\WeiYiacc\github' failed; ex=Failed to execute git {
+  "exitCode": 128,
+  "gitErrorCode": "NotAGitRepository",
+  "gitCommand": "rev-parse",
+  "stdout": "",
+  "stderr": "fatal: not a git repository (or any of the parent directories): .git\n"
+}
+Opening repository for path='d:\Home\WeiYiacc\github' failed; ex=Failed to execute git {
+  "exitCode": 128,
+  "gitErrorCode": "NotAGitRepository",
+  "gitCommand": "rev-parse",
+  "stdout": "",
+  "stderr": "fatal: not a git repository (or any of the parent directories): .git\n"
+}
+Opening repository for path='d:\Home\WeiYiacc\github' failed; ex=Failed to execute git {
+  "exitCode": 128,
+  "gitErrorCode": "NotAGitRepository",
+  "gitCommand": "rev-parse",
+  "stdout": "",
+  "stderr": "fatal: not a git repository (or any of the parent directories): .git\n"
+}
+> git check-ignore -v -z --stdin
+Opening repository for path='d:\Home\WeiYiacc\github' failed; ex=Failed to execute git {
+  "exitCode": 128,
+  "gitErrorCode": "NotAGitRepository",
+  "gitCommand": "rev-parse",
+  "stdout": "",
+  "stderr": "fatal: not a git repository (or any of the parent directories): .git\n"
+}
+Opening repository for path='d:\Home\WeiYiacc\github' failed; ex=Failed to execute git {
+  "exitCode": 128,
+  "gitErrorCode": "NotAGitRepository",
+  "gitCommand": "rev-parse",
+  "stdout": "",
+  "stderr": "fatal: not a git repository (or any of the parent directories): .git\n"
+}
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git log --oneline --cherry master...master@{upstream} --
+> git pull --tags origin master
+> git check-ignore -v -z --stdin
+Opening repository for path='d:\Home\WeiYiacc\github' failed; ex=Failed to execute git {
+  "exitCode": 128,
+  "gitErrorCode": "NotAGitRepository",
+  "gitCommand": "rev-parse",
+  "stdout": "",
+  "stderr": "fatal: not a git repository (or any of the parent directories): .git\n"
+}
+Opening repository for path='d:\Home\WeiYiacc\github' failed; ex=Failed to execute git {
+  "exitCode": 128,
+  "gitErrorCode": "NotAGitRepository",
+  "gitCommand": "rev-parse",
+  "stdout": "",
+  "stderr": "fatal: not a git repository (or any of the parent directories): .git\n"
+}
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+From https://github.com/WeiYiAcc/logseqdata
+ * branch            master     -> FETCH_HEAD
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/master refs/remotes/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/master refs/remotes/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git clean -f -q -- D:\Home\WeiYiacc\github\logseqdata\orgzly\1Tasks-冲突-虚幻的羽翼_Win10.org
+> git checkout -q
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/master refs/remotes/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git add -A -- .
+warning: LF will be replaced by CRLF in journals/2021_04_18.org.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in journals/2021_05_31.org.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in journals/2021_10_08.org.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in journals/2021_10_09.org.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in journals/2021_10_11.org.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in journals/2021_10_19.org.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in logseq/config.edn.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in pages/Inbox.org.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in pages/agenda.org.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in pages/onetab.org.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in pages/书签.org.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in pages/行政许可一体化平台.org.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in pages/15. Get all tasks with a tag _work_.org.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in pages/favorites.org.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in pages/书单.org.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in pages/感想.org.
+The file will have its original line endings in your working directory
+> git -c user.useConfigOnly=true commit --quiet --allow-empty-message --file -
+Author identity unknown
+
+*** Please tell me who you are.
+
+Run
+
+  git config --global user.email "you@example.com"
+  git config --global user.name "Your Name"
+
+to set your account's default identity.
+Omit --global to set the identity only in this repository.
+
+fatal: no email was given and auto-detection is disabled
+> git config --get-all user.name

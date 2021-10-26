@@ -1,0 +1,20 @@
+[2021-10-21 22:10:11.489] [main] [info] update#setState idle
+[2021-10-21 22:10:41.496] [main] [info] update#setState checking for updates
+[2021-10-21 22:10:42.177] [main] [info] update#setState idle
+[2021-10-22 11:22:17.386] [main] [info] update#setState checking for updates
+[2021-10-22 11:22:17.416] [main] [error] Error: net::ERR_INTERNET_DISCONNECTED
+    at SimpleURLLoaderWrapper.<anonymous> (electron/js2c/browser_init.js:109:7068)
+    at SimpleURLLoaderWrapper.emit (events.js:315:20)
+[2021-10-22 11:22:17.416] [main] [info] update#setState idle
+[2021-10-22 12:38:09.283] [main] [info] update#setState checking for updates
+[2021-10-22 12:38:12.334] [main] [error] Error: net::ERR_NETWORK_CHANGED
+    at SimpleURLLoaderWrapper.<anonymous> (electron/js2c/browser_init.js:109:7068)
+    at SimpleURLLoaderWrapper.emit (events.js:315:20)
+[2021-10-22 12:38:12.334] [main] [info] update#setState idle
+[2021-10-22 17:39:16.232] [main] [info] update#setState checking for updates
+[2021-10-22 17:39:19.628] [main] [info] update#setState idle
+[2021-10-23 06:56:33.504] [main] [info] update#setState checking for updates
+[2021-10-23 06:56:33.816] [main] [error] Error: net::ERR_CONNECTION_RESET
+    at SimpleURLLoaderWrapper.<anonymous> (electron/js2c/browser_init.js:109:7068)
+    at SimpleURLLoaderWrapper.emit (events.js:315:20)
+[2021-10-23 06:56:33.817] [main] [info] update#setState idle

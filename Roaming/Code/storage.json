@@ -1,0 +1,70 @@
+{
+    "telemetry.machineId": "9febf4b9cffd42a80535e501fcf57bb45a1be5c5c2706e22086ab4778ab59904",
+    "openedPathsList": {
+        "entries": [
+            {
+                "folderUri": "file:///d%3A/Home/WeiYiacc/github"
+            },
+            {
+                "workspace": {
+                    "id": "7fb51981080dd6232b0e263490404d8f",
+                    "configPath": "file:///d%3A/Home/WeiYiacc/github/workspace/workspace.code-workspace"
+                }
+            },
+            {
+                "folderUri": "file:///d%3A/Home/WeiYiacc/github/logseqdata"
+            },
+            {
+                "folderUri": "file:///d%3A/Home/WeiYiacc/github/backup"
+            },
+            {
+                "fileUri": "file:///c%3A/Users/WeiYi/.gitconfig"
+            },
+            {
+                "fileUri": "file:///c%3A/Users/WeiYi/Desktop/%E6%96%B0%E5%BB%BA%20Text%20Document.txt"
+            }
+        ]
+    },
+    "theme": "vs-dark",
+    "themeBackground": "#282a36",
+    "windowSplash": {
+        "baseTheme": "vs-dark",
+        "colorInfo": {
+            "foreground": "#f8f8f2",
+            "background": "#282a36",
+            "editorBackground": "#282a36",
+            "titleBarBackground": "#21222c",
+            "activityBarBackground": "#343746",
+            "sideBarBackground": "#21222c",
+            "statusBarBackground": "#191a21",
+            "statusBarNoFolderBackground": "#191a21"
+        },
+        "layoutInfo": {
+            "sideBarSide": "left",
+            "editorPartMinWidth": 220,
+            "titleBarHeight": 30,
+            "activityBarWidth": 48,
+            "sideBarWidth": 256,
+            "statusBarHeight": 22,
+            "windowBorder": false
+        }
+    },
+    "windowsState": {
+        "lastActiveWindow": {
+            "workspaceIdentifier": {
+                "id": "96937f77dcda1437a5bfd9690f2f3f0f",
+                "configURIPath": "file:///c%3A/Users/WeiYi/AppData/Roaming/Code/Workspaces/1635149425651/workspace.json"
+            },
+            "backupPath": "C:\\Users\\WeiYi\\AppData\\Roaming\\Code\\Backups\\96937f77dcda1437a5bfd9690f2f3f0f",
+            "uiState": {
+                "mode": 0,
+                "x": 28,
+                "y": 0,
+                "width": 1024,
+                "height": 672
+            }
+        },
+        "openedWindows": []
+    },
+    "pickerWorkingDir": "D:\\Home\\WeiYiacc"
+}

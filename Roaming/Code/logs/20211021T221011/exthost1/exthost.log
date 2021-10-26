@@ -1,0 +1,57 @@
+[2021-10-21 22:10:15.576] [exthost] [info] extension host started
+[2021-10-21 22:10:15.624] [exthost] [info] ExtensionService#_doActivateExtension vscode.microsoft-authentication, startup: false, activationEvent: 'onAuthenticationRequest:microsoft'
+[2021-10-21 22:10:15.624] [exthost] [info] ExtensionService#loadCommonJSModule file:///d:/wingetapp/Microsoft VS Code/resources/app/extensions/microsoft-authentication/dist/extension.js
+[2021-10-21 22:10:15.773] [exthost] [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: true, activationEvent: '*'
+[2021-10-21 22:10:15.773] [exthost] [info] ExtensionService#loadCommonJSModule file:///d:/wingetapp/Microsoft VS Code/resources/app/extensions/debug-auto-launch/dist/extension
+[2021-10-21 22:10:15.812] [exthost] [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*', root cause: vscode.github
+[2021-10-21 22:10:15.813] [exthost] [info] ExtensionService#loadCommonJSModule file:///d:/wingetapp/Microsoft VS Code/resources/app/extensions/git/dist/main
+[2021-10-21 22:10:16.015] [exthost] [info] ExtensionService#_doActivateExtension PKief.material-icon-theme, startup: true, activationEvent: '*'
+[2021-10-21 22:10:16.015] [exthost] [info] ExtensionService#loadCommonJSModule file:///c:/Users/WeiYi/.vscode/extensions/pkief.material-icon-theme-4.10.0/dist/extension
+[2021-10-21 22:10:16.283] [exthost] [info] ExtensionService#_doActivateExtension ms-vscode.js-debug, startup: false, activationEvent: 'onCommand:extension.js-debug.clearAutoAttachVariables'
+[2021-10-21 22:10:16.283] [exthost] [info] ExtensionService#loadCommonJSModule file:///d:/wingetapp/Microsoft VS Code/resources/app/extensions/ms-vscode.js-debug/src/extension.js
+[2021-10-21 22:10:16.514] [exthost] [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+[2021-10-21 22:10:16.514] [exthost] [info] ExtensionService#loadCommonJSModule file:///d:/wingetapp/Microsoft VS Code/resources/app/extensions/github/dist/extension.js
+[2021-10-21 22:10:16.579] [exthost] [info] ExtensionService#_doActivateExtension vscode.github-authentication, startup: false, activationEvent: 'onAuthenticationRequest:github'
+[2021-10-21 22:10:16.579] [exthost] [info] ExtensionService#loadCommonJSModule file:///d:/wingetapp/Microsoft VS Code/resources/app/extensions/github-authentication/dist/extension.js
+[2021-10-21 22:10:16.624] [exthost] [info] eager extensions activated
+[2021-10-21 22:10:16.640] [exthost] [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onStartupFinished'
+[2021-10-21 22:10:16.640] [exthost] [info] ExtensionService#loadCommonJSModule file:///d:/wingetapp/Microsoft VS Code/resources/app/extensions/emmet/dist/node/emmetNodeMain
+[2021-10-21 22:10:16.697] [exthost] [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+[2021-10-21 22:10:16.697] [exthost] [info] ExtensionService#loadCommonJSModule file:///d:/wingetapp/Microsoft VS Code/resources/app/extensions/merge-conflict/dist/mergeConflictMain
+[2021-10-21 22:10:16.720] [exthost] [info] ExtensionService#_doActivateExtension ms-vscode-remote.remote-wsl-recommender, startup: false, activationEvent: 'onStartupFinished'
+[2021-10-21 22:10:16.721] [exthost] [info] ExtensionService#loadCommonJSModule file:///d:/wingetapp/Microsoft VS Code/resources/app/extensions/ms-vscode-remote.remote-wsl-recommender/dist/extension.js
+[2021-10-21 22:10:16.769] [exthost] [info] ExtensionService#_doActivateExtension eamodio.gitlens, startup: false, activationEvent: 'onStartupFinished'
+[2021-10-21 22:10:16.770] [exthost] [info] ExtensionService#loadCommonJSModule file:///c:/Users/WeiYi/.vscode/extensions/eamodio.gitlens-11.6.1/dist/gitlens
+[2021-10-21 22:10:18.357] [exthost] [info] ExtensionService#_doActivateExtension vscode.configuration-editing, startup: false, activationEvent: 'onLanguage:jsonc'
+[2021-10-21 22:10:18.357] [exthost] [info] ExtensionService#loadCommonJSModule file:///d:/wingetapp/Microsoft VS Code/resources/app/extensions/configuration-editing/dist/configurationEditingMain
+[2021-10-21 22:10:18.434] [exthost] [info] ExtensionService#_doActivateExtension vscode.json-language-features, startup: false, activationEvent: 'onLanguage:jsonc'
+[2021-10-21 22:10:18.434] [exthost] [info] ExtensionService#loadCommonJSModule file:///d:/wingetapp/Microsoft VS Code/resources/app/extensions/json-language-features/client/dist/node/jsonClientMain
+[2021-10-21 22:10:18.590] [exthost] [info] ExtensionService#_doActivateExtension vscode.typescript-language-features, startup: false, activationEvent: 'onLanguage:jsonc'
+[2021-10-21 22:10:18.590] [exthost] [info] ExtensionService#loadCommonJSModule file:///d:/wingetapp/Microsoft VS Code/resources/app/extensions/typescript-language-features/dist/extension
+[2021-10-21 22:12:02.034] [exthost] [info] extension host terminating: renderer closed the socket
+[2021-10-21 22:12:03.046] [exthost] [info] exiting with code 0
+[2021-10-21 22:12:04.187] [exthost] [info] extension host started
+[2021-10-21 22:12:04.188] [exthost] [info] Skipping acquiring lock for c:\Users\WeiYi\AppData\Roaming\Code\User\workspaceStorage\9d84bc2824d1f0b082db645688cb00ff.
+[2021-10-21 22:12:04.394] [exthost] [info] ExtensionService#_doActivateExtension vscode.microsoft-authentication, startup: false, activationEvent: 'onAuthenticationRequest:microsoft'
+[2021-10-21 22:12:04.394] [exthost] [info] ExtensionService#loadCommonJSModule file:///d:/wingetapp/Microsoft VS Code/resources/app/extensions/microsoft-authentication/dist/extension.js
+[2021-10-21 22:12:04.402] [exthost] [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: true, activationEvent: '*'
+[2021-10-21 22:12:04.402] [exthost] [info] ExtensionService#loadCommonJSModule file:///d:/wingetapp/Microsoft VS Code/resources/app/extensions/debug-auto-launch/dist/extension
+[2021-10-21 22:12:04.405] [exthost] [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*', root cause: vscode.github
+[2021-10-21 22:12:04.405] [exthost] [info] ExtensionService#loadCommonJSModule file:///d:/wingetapp/Microsoft VS Code/resources/app/extensions/git/dist/main
+[2021-10-21 22:12:04.421] [exthost] [info] ExtensionService#_doActivateExtension PKief.material-icon-theme, startup: true, activationEvent: '*'
+[2021-10-21 22:12:04.421] [exthost] [info] ExtensionService#loadCommonJSModule file:///c:/Users/WeiYi/.vscode/extensions/pkief.material-icon-theme-4.10.0/dist/extension
+[2021-10-21 22:12:04.498] [exthost] [info] ExtensionService#_doActivateExtension ms-vscode.js-debug, startup: false, activationEvent: 'onCommand:extension.js-debug.clearAutoAttachVariables'
+[2021-10-21 22:12:04.498] [exthost] [info] ExtensionService#loadCommonJSModule file:///d:/wingetapp/Microsoft VS Code/resources/app/extensions/ms-vscode.js-debug/src/extension.js
+[2021-10-21 22:12:04.617] [exthost] [info] ExtensionService#_doActivateExtension vscode.github-authentication, startup: false, activationEvent: 'onAuthenticationRequest:github'
+[2021-10-21 22:12:04.617] [exthost] [info] ExtensionService#loadCommonJSModule file:///d:/wingetapp/Microsoft VS Code/resources/app/extensions/github-authentication/dist/extension.js
+[2021-10-21 22:12:04.721] [exthost] [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+[2021-10-21 22:12:04.721] [exthost] [info] ExtensionService#loadCommonJSModule file:///d:/wingetapp/Microsoft VS Code/resources/app/extensions/github/dist/extension.js
+[2021-10-21 22:12:04.735] [exthost] [info] eager extensions activated
+[2021-10-21 22:12:04.743] [exthost] [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onStartupFinished'
+[2021-10-21 22:12:04.743] [exthost] [info] ExtensionService#loadCommonJSModule file:///d:/wingetapp/Microsoft VS Code/resources/app/extensions/emmet/dist/node/emmetNodeMain
+[2021-10-21 22:12:04.750] [exthost] [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+[2021-10-21 22:12:04.750] [exthost] [info] ExtensionService#loadCommonJSModule file:///d:/wingetapp/Microsoft VS Code/resources/app/extensions/merge-conflict/dist/mergeConflictMain
+[2021-10-21 22:12:04.753] [exthost] [info] ExtensionService#_doActivateExtension ms-vscode-remote.remote-wsl-recommender, startup: false, activationEvent: 'onStartupFinished'
+[2021-10-21 22:12:04.754] [exthost] [info] ExtensionService#loadCommonJSModule file:///d:/wingetapp/Microsoft VS Code/resources/app/extensions/ms-vscode-remote.remote-wsl-recommender/dist/extension.js
+[2021-10-21 22:12:04.763] [exthost] [info] ExtensionService#_doActivateExtension eamodio.gitlens, startup: false, activationEvent: 'onStartupFinished'
+[2021-10-21 22:12:04.763] [exthost] [info] ExtensionService#loadCommonJSModule file:///c:/Users/WeiYi/.vscode/extensions/eamodio.gitlens-11.6.1/dist/gitlens

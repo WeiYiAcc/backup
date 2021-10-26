@@ -1,0 +1,252 @@
+[2021-10-25 11:56:58.889] [exthost] [info] extension host started
+[2021-10-25 11:56:58.890] [exthost] [info] Skipping acquiring lock for c:\Users\WeiYi\AppData\Roaming\Code\User\workspaceStorage\9d84bc2824d1f0b082db645688cb00ff.
+[2021-10-25 11:56:58.990] [exthost] [info] ExtensionService#_doActivateExtension vscode.microsoft-authentication, startup: false, activationEvent: 'onAuthenticationRequest:microsoft'
+[2021-10-25 11:56:58.990] [exthost] [info] ExtensionService#loadCommonJSModule file:///d:/wingetapp/Microsoft VS Code/resources/app/extensions/microsoft-authentication/dist/extension.js
+[2021-10-25 11:56:59.132] [exthost] [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: true, activationEvent: '*'
+[2021-10-25 11:56:59.133] [exthost] [info] ExtensionService#loadCommonJSModule file:///d:/wingetapp/Microsoft VS Code/resources/app/extensions/debug-auto-launch/dist/extension
+[2021-10-25 11:56:59.183] [exthost] [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*', root cause: vscode.github
+[2021-10-25 11:56:59.184] [exthost] [info] ExtensionService#loadCommonJSModule file:///d:/wingetapp/Microsoft VS Code/resources/app/extensions/git/dist/main
+[2021-10-25 11:56:59.422] [exthost] [info] ExtensionService#_doActivateExtension PKief.material-icon-theme, startup: true, activationEvent: '*'
+[2021-10-25 11:56:59.423] [exthost] [info] ExtensionService#loadCommonJSModule file:///c:/Users/WeiYi/.vscode/extensions/pkief.material-icon-theme-4.10.0/dist/extension
+[2021-10-25 11:56:59.707] [exthost] [info] ExtensionService#_doActivateExtension ms-vscode.js-debug, startup: false, activationEvent: 'onCommand:extension.js-debug.clearAutoAttachVariables'
+[2021-10-25 11:56:59.707] [exthost] [info] ExtensionService#loadCommonJSModule file:///d:/wingetapp/Microsoft VS Code/resources/app/extensions/ms-vscode.js-debug/src/extension.js
+[2021-10-25 11:56:59.968] [exthost] [info] ExtensionService#_doActivateExtension vscode.github-authentication, startup: false, activationEvent: 'onAuthenticationRequest:github'
+[2021-10-25 11:56:59.968] [exthost] [info] ExtensionService#loadCommonJSModule file:///d:/wingetapp/Microsoft VS Code/resources/app/extensions/github-authentication/dist/extension.js
+[2021-10-25 11:57:00.143] [exthost] [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+[2021-10-25 11:57:00.143] [exthost] [info] ExtensionService#loadCommonJSModule file:///d:/wingetapp/Microsoft VS Code/resources/app/extensions/github/dist/extension.js
+[2021-10-25 11:57:00.207] [exthost] [info] eager extensions activated
+[2021-10-25 11:57:00.212] [exthost] [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onStartupFinished'
+[2021-10-25 11:57:00.212] [exthost] [info] ExtensionService#loadCommonJSModule file:///d:/wingetapp/Microsoft VS Code/resources/app/extensions/emmet/dist/node/emmetNodeMain
+[2021-10-25 11:57:00.271] [exthost] [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+[2021-10-25 11:57:00.272] [exthost] [info] ExtensionService#loadCommonJSModule file:///d:/wingetapp/Microsoft VS Code/resources/app/extensions/merge-conflict/dist/mergeConflictMain
+[2021-10-25 11:57:00.294] [exthost] [info] ExtensionService#_doActivateExtension ms-vscode-remote.remote-wsl-recommender, startup: false, activationEvent: 'onStartupFinished'
+[2021-10-25 11:57:00.294] [exthost] [info] ExtensionService#loadCommonJSModule file:///d:/wingetapp/Microsoft VS Code/resources/app/extensions/ms-vscode-remote.remote-wsl-recommender/dist/extension.js
+[2021-10-25 11:57:00.343] [exthost] [info] ExtensionService#_doActivateExtension eamodio.gitlens, startup: false, activationEvent: 'onStartupFinished'
+[2021-10-25 11:57:00.343] [exthost] [info] ExtensionService#loadCommonJSModule file:///c:/Users/WeiYi/.vscode/extensions/eamodio.gitlens-11.6.1/dist/gitlens
+[2021-10-25 11:57:01.292] [exthost] [info] ExtensionService#_doActivateExtension vscode.configuration-editing, startup: false, activationEvent: 'onLanguage:jsonc'
+[2021-10-25 11:57:01.293] [exthost] [info] ExtensionService#loadCommonJSModule file:///d:/wingetapp/Microsoft VS Code/resources/app/extensions/configuration-editing/dist/configurationEditingMain
+[2021-10-25 11:57:01.356] [exthost] [info] ExtensionService#_doActivateExtension vscode.json-language-features, startup: false, activationEvent: 'onLanguage:jsonc'
+[2021-10-25 11:57:01.357] [exthost] [info] ExtensionService#loadCommonJSModule file:///d:/wingetapp/Microsoft VS Code/resources/app/extensions/json-language-features/client/dist/node/jsonClientMain
+[2021-10-25 11:57:01.560] [exthost] [info] ExtensionService#_doActivateExtension vscode.typescript-language-features, startup: false, activationEvent: 'onLanguage:jsonc'
+[2021-10-25 11:57:01.561] [exthost] [info] ExtensionService#loadCommonJSModule file:///d:/wingetapp/Microsoft VS Code/resources/app/extensions/typescript-language-features/dist/extension
+[2021-10-25 11:58:28.315] [exthost] [info] extension host terminating: renderer closed the socket
+[2021-10-25 11:58:29.352] [exthost] [info] exiting with code 0
+[2021-10-25 11:58:31.014] [exthost] [info] extension host started
+[2021-10-25 11:58:31.015] [exthost] [info] Skipping acquiring lock for c:\Users\WeiYi\AppData\Roaming\Code\User\workspaceStorage\7fb51981080dd6232b0e263490404d8f.
+[2021-10-25 11:58:31.094] [exthost] [info] ExtensionService#_doActivateExtension vscode.microsoft-authentication, startup: false, activationEvent: 'onAuthenticationRequest:microsoft'
+[2021-10-25 11:58:31.094] [exthost] [info] ExtensionService#loadCommonJSModule file:///d:/wingetapp/Microsoft VS Code/resources/app/extensions/microsoft-authentication/dist/extension.js
+[2021-10-25 11:58:31.103] [exthost] [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: true, activationEvent: '*'
+[2021-10-25 11:58:31.103] [exthost] [info] ExtensionService#loadCommonJSModule file:///d:/wingetapp/Microsoft VS Code/resources/app/extensions/debug-auto-launch/dist/extension
+[2021-10-25 11:58:31.106] [exthost] [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*', root cause: vscode.github
+[2021-10-25 11:58:31.106] [exthost] [info] ExtensionService#loadCommonJSModule file:///d:/wingetapp/Microsoft VS Code/resources/app/extensions/git/dist/main
+[2021-10-25 11:58:31.122] [exthost] [info] ExtensionService#_doActivateExtension PKief.material-icon-theme, startup: true, activationEvent: '*'
+[2021-10-25 11:58:31.122] [exthost] [info] ExtensionService#loadCommonJSModule file:///c:/Users/WeiYi/.vscode/extensions/pkief.material-icon-theme-4.10.0/dist/extension
+[2021-10-25 11:58:31.207] [exthost] [info] ExtensionService#_doActivateExtension ms-vscode.js-debug, startup: false, activationEvent: 'onCommand:extension.js-debug.clearAutoAttachVariables'
+[2021-10-25 11:58:31.208] [exthost] [info] ExtensionService#loadCommonJSModule file:///d:/wingetapp/Microsoft VS Code/resources/app/extensions/ms-vscode.js-debug/src/extension.js
+[2021-10-25 11:58:31.318] [exthost] [info] ExtensionService#_doActivateExtension vscode.github-authentication, startup: false, activationEvent: 'onAuthenticationRequest:github'
+[2021-10-25 11:58:31.319] [exthost] [info] ExtensionService#loadCommonJSModule file:///d:/wingetapp/Microsoft VS Code/resources/app/extensions/github-authentication/dist/extension.js
+[2021-10-25 11:58:31.508] [exthost] [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+[2021-10-25 11:58:31.508] [exthost] [info] ExtensionService#loadCommonJSModule file:///d:/wingetapp/Microsoft VS Code/resources/app/extensions/github/dist/extension.js
+[2021-10-25 11:58:31.529] [exthost] [info] eager extensions activated
+[2021-10-25 11:58:31.540] [exthost] [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onStartupFinished'
+[2021-10-25 11:58:31.541] [exthost] [info] ExtensionService#loadCommonJSModule file:///d:/wingetapp/Microsoft VS Code/resources/app/extensions/emmet/dist/node/emmetNodeMain
+[2021-10-25 11:58:31.553] [exthost] [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+[2021-10-25 11:58:31.553] [exthost] [info] ExtensionService#loadCommonJSModule file:///d:/wingetapp/Microsoft VS Code/resources/app/extensions/merge-conflict/dist/mergeConflictMain
+[2021-10-25 11:58:31.556] [exthost] [info] ExtensionService#_doActivateExtension ms-vscode-remote.remote-wsl-recommender, startup: false, activationEvent: 'onStartupFinished'
+[2021-10-25 11:58:31.556] [exthost] [info] ExtensionService#loadCommonJSModule file:///d:/wingetapp/Microsoft VS Code/resources/app/extensions/ms-vscode-remote.remote-wsl-recommender/dist/extension.js
+[2021-10-25 11:58:31.563] [exthost] [info] ExtensionService#_doActivateExtension eamodio.gitlens, startup: false, activationEvent: 'onStartupFinished'
+[2021-10-25 11:58:31.564] [exthost] [info] ExtensionService#loadCommonJSModule file:///c:/Users/WeiYi/.vscode/extensions/eamodio.gitlens-11.6.1/dist/gitlens
+[2021-10-25 11:58:58.041] [exthost] [info] extension host terminating: renderer closed the socket
+[2021-10-25 11:58:59.064] [exthost] [info] exiting with code 0
+[2021-10-25 11:59:00.031] [exthost] [info] extension host started
+[2021-10-25 11:59:00.032] [exthost] [info] Skipping acquiring lock for c:\Users\WeiYi\AppData\Roaming\Code\User\workspaceStorage\8776d583bdacae85d32f08a4cb7d36ce.
+[2021-10-25 11:59:00.129] [exthost] [info] ExtensionService#_doActivateExtension vscode.microsoft-authentication, startup: false, activationEvent: 'onAuthenticationRequest:microsoft'
+[2021-10-25 11:59:00.129] [exthost] [info] ExtensionService#loadCommonJSModule file:///d:/wingetapp/Microsoft VS Code/resources/app/extensions/microsoft-authentication/dist/extension.js
+[2021-10-25 11:59:00.140] [exthost] [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: true, activationEvent: '*'
+[2021-10-25 11:59:00.140] [exthost] [info] ExtensionService#loadCommonJSModule file:///d:/wingetapp/Microsoft VS Code/resources/app/extensions/debug-auto-launch/dist/extension
+[2021-10-25 11:59:00.143] [exthost] [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*', root cause: vscode.github
+[2021-10-25 11:59:00.143] [exthost] [info] ExtensionService#loadCommonJSModule file:///d:/wingetapp/Microsoft VS Code/resources/app/extensions/git/dist/main
+[2021-10-25 11:59:00.164] [exthost] [info] ExtensionService#_doActivateExtension PKief.material-icon-theme, startup: true, activationEvent: '*'
+[2021-10-25 11:59:00.164] [exthost] [info] ExtensionService#loadCommonJSModule file:///c:/Users/WeiYi/.vscode/extensions/pkief.material-icon-theme-4.10.0/dist/extension
+[2021-10-25 11:59:00.405] [exthost] [info] ExtensionService#_doActivateExtension ms-vscode.js-debug, startup: false, activationEvent: 'onCommand:extension.js-debug.clearAutoAttachVariables'
+[2021-10-25 11:59:00.405] [exthost] [info] ExtensionService#loadCommonJSModule file:///d:/wingetapp/Microsoft VS Code/resources/app/extensions/ms-vscode.js-debug/src/extension.js
+[2021-10-25 11:59:00.595] [exthost] [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+[2021-10-25 11:59:00.595] [exthost] [info] ExtensionService#loadCommonJSModule file:///d:/wingetapp/Microsoft VS Code/resources/app/extensions/github/dist/extension.js
+[2021-10-25 11:59:00.633] [exthost] [info] eager extensions activated
+[2021-10-25 11:59:00.650] [exthost] [info] ExtensionService#_doActivateExtension vscode.github-authentication, startup: false, activationEvent: 'onAuthenticationRequest:github'
+[2021-10-25 11:59:00.650] [exthost] [info] ExtensionService#loadCommonJSModule file:///d:/wingetapp/Microsoft VS Code/resources/app/extensions/github-authentication/dist/extension.js
+[2021-10-25 11:59:00.665] [exthost] [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onStartupFinished'
+[2021-10-25 11:59:00.666] [exthost] [info] ExtensionService#loadCommonJSModule file:///d:/wingetapp/Microsoft VS Code/resources/app/extensions/emmet/dist/node/emmetNodeMain
+[2021-10-25 11:59:00.675] [exthost] [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+[2021-10-25 11:59:00.675] [exthost] [info] ExtensionService#loadCommonJSModule file:///d:/wingetapp/Microsoft VS Code/resources/app/extensions/merge-conflict/dist/mergeConflictMain
+[2021-10-25 11:59:00.680] [exthost] [info] ExtensionService#_doActivateExtension ms-vscode-remote.remote-wsl-recommender, startup: false, activationEvent: 'onStartupFinished'
+[2021-10-25 11:59:00.680] [exthost] [info] ExtensionService#loadCommonJSModule file:///d:/wingetapp/Microsoft VS Code/resources/app/extensions/ms-vscode-remote.remote-wsl-recommender/dist/extension.js
+[2021-10-25 11:59:00.692] [exthost] [info] ExtensionService#_doActivateExtension eamodio.gitlens, startup: false, activationEvent: 'onStartupFinished'
+[2021-10-25 11:59:00.692] [exthost] [info] ExtensionService#loadCommonJSModule file:///c:/Users/WeiYi/.vscode/extensions/eamodio.gitlens-11.6.1/dist/gitlens
+[2021-10-25 12:00:25.759] [exthost] [info] extension host terminating: renderer closed the socket
+[2021-10-25 12:00:26.779] [exthost] [info] exiting with code 0
+[2021-10-25 12:00:27.738] [exthost] [info] extension host started
+[2021-10-25 12:00:27.738] [exthost] [info] Skipping acquiring lock for c:\Users\WeiYi\AppData\Roaming\Code\User\workspaceStorage\30c46d545c3b3f1ec606f84b80679e2e.
+[2021-10-25 12:00:27.849] [exthost] [info] ExtensionService#_doActivateExtension vscode.microsoft-authentication, startup: false, activationEvent: 'onAuthenticationRequest:microsoft'
+[2021-10-25 12:00:27.849] [exthost] [info] ExtensionService#loadCommonJSModule file:///d:/wingetapp/Microsoft VS Code/resources/app/extensions/microsoft-authentication/dist/extension.js
+[2021-10-25 12:00:27.859] [exthost] [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: true, activationEvent: '*'
+[2021-10-25 12:00:27.859] [exthost] [info] ExtensionService#loadCommonJSModule file:///d:/wingetapp/Microsoft VS Code/resources/app/extensions/debug-auto-launch/dist/extension
+[2021-10-25 12:00:27.862] [exthost] [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*', root cause: vscode.github
+[2021-10-25 12:00:27.862] [exthost] [info] ExtensionService#loadCommonJSModule file:///d:/wingetapp/Microsoft VS Code/resources/app/extensions/git/dist/main
+[2021-10-25 12:00:27.882] [exthost] [info] ExtensionService#_doActivateExtension PKief.material-icon-theme, startup: true, activationEvent: '*'
+[2021-10-25 12:00:27.882] [exthost] [info] ExtensionService#loadCommonJSModule file:///c:/Users/WeiYi/.vscode/extensions/pkief.material-icon-theme-4.10.0/dist/extension
+[2021-10-25 12:00:27.970] [exthost] [info] ExtensionService#_doActivateExtension ms-vscode.js-debug, startup: false, activationEvent: 'onCommand:extension.js-debug.clearAutoAttachVariables'
+[2021-10-25 12:00:27.970] [exthost] [info] ExtensionService#loadCommonJSModule file:///d:/wingetapp/Microsoft VS Code/resources/app/extensions/ms-vscode.js-debug/src/extension.js
+[2021-10-25 12:00:28.090] [exthost] [info] ExtensionService#_doActivateExtension vscode.github-authentication, startup: false, activationEvent: 'onAuthenticationRequest:github'
+[2021-10-25 12:00:28.090] [exthost] [info] ExtensionService#loadCommonJSModule file:///d:/wingetapp/Microsoft VS Code/resources/app/extensions/github-authentication/dist/extension.js
+[2021-10-25 12:00:28.157] [exthost] [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+[2021-10-25 12:00:28.157] [exthost] [info] ExtensionService#loadCommonJSModule file:///d:/wingetapp/Microsoft VS Code/resources/app/extensions/github/dist/extension.js
+[2021-10-25 12:00:28.166] [exthost] [info] eager extensions activated
+[2021-10-25 12:00:28.171] [exthost] [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onStartupFinished'
+[2021-10-25 12:00:28.171] [exthost] [info] ExtensionService#loadCommonJSModule file:///d:/wingetapp/Microsoft VS Code/resources/app/extensions/emmet/dist/node/emmetNodeMain
+[2021-10-25 12:00:28.177] [exthost] [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+[2021-10-25 12:00:28.178] [exthost] [info] ExtensionService#loadCommonJSModule file:///d:/wingetapp/Microsoft VS Code/resources/app/extensions/merge-conflict/dist/mergeConflictMain
+[2021-10-25 12:00:28.180] [exthost] [info] ExtensionService#_doActivateExtension ms-vscode-remote.remote-wsl-recommender, startup: false, activationEvent: 'onStartupFinished'
+[2021-10-25 12:00:28.180] [exthost] [info] ExtensionService#loadCommonJSModule file:///d:/wingetapp/Microsoft VS Code/resources/app/extensions/ms-vscode-remote.remote-wsl-recommender/dist/extension.js
+[2021-10-25 12:00:28.187] [exthost] [info] ExtensionService#_doActivateExtension eamodio.gitlens, startup: false, activationEvent: 'onStartupFinished'
+[2021-10-25 12:00:28.187] [exthost] [info] ExtensionService#loadCommonJSModule file:///c:/Users/WeiYi/.vscode/extensions/eamodio.gitlens-11.6.1/dist/gitlens
+[2021-10-25 12:04:34.161] [exthost] [info] extension host terminating: renderer closed the socket
+[2021-10-25 12:04:35.178] [exthost] [info] exiting with code 0
+[2021-10-25 12:04:36.009] [exthost] [info] extension host started
+[2021-10-25 12:04:36.009] [exthost] [info] Skipping acquiring lock for c:\Users\WeiYi\AppData\Roaming\Code\User\workspaceStorage\7fb51981080dd6232b0e263490404d8f.
+[2021-10-25 12:04:36.110] [exthost] [info] ExtensionService#_doActivateExtension vscode.microsoft-authentication, startup: false, activationEvent: 'onAuthenticationRequest:microsoft'
+[2021-10-25 12:04:36.110] [exthost] [info] ExtensionService#loadCommonJSModule file:///d:/wingetapp/Microsoft VS Code/resources/app/extensions/microsoft-authentication/dist/extension.js
+[2021-10-25 12:04:36.122] [exthost] [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: true, activationEvent: '*'
+[2021-10-25 12:04:36.122] [exthost] [info] ExtensionService#loadCommonJSModule file:///d:/wingetapp/Microsoft VS Code/resources/app/extensions/debug-auto-launch/dist/extension
+[2021-10-25 12:04:36.126] [exthost] [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*', root cause: vscode.github
+[2021-10-25 12:04:36.126] [exthost] [info] ExtensionService#loadCommonJSModule file:///d:/wingetapp/Microsoft VS Code/resources/app/extensions/git/dist/main
+[2021-10-25 12:04:36.142] [exthost] [info] ExtensionService#_doActivateExtension PKief.material-icon-theme, startup: true, activationEvent: '*'
+[2021-10-25 12:04:36.143] [exthost] [info] ExtensionService#loadCommonJSModule file:///c:/Users/WeiYi/.vscode/extensions/pkief.material-icon-theme-4.10.0/dist/extension
+[2021-10-25 12:04:36.337] [exthost] [info] ExtensionService#_doActivateExtension ms-vscode.js-debug, startup: false, activationEvent: 'onCommand:extension.js-debug.clearAutoAttachVariables'
+[2021-10-25 12:04:36.337] [exthost] [info] ExtensionService#loadCommonJSModule file:///d:/wingetapp/Microsoft VS Code/resources/app/extensions/ms-vscode.js-debug/src/extension.js
+[2021-10-25 12:04:36.476] [exthost] [info] ExtensionService#_doActivateExtension vscode.github-authentication, startup: false, activationEvent: 'onAuthenticationRequest:github'
+[2021-10-25 12:04:36.477] [exthost] [info] ExtensionService#loadCommonJSModule file:///d:/wingetapp/Microsoft VS Code/resources/app/extensions/github-authentication/dist/extension.js
+[2021-10-25 12:04:36.574] [exthost] [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+[2021-10-25 12:04:36.574] [exthost] [info] ExtensionService#loadCommonJSModule file:///d:/wingetapp/Microsoft VS Code/resources/app/extensions/github/dist/extension.js
+[2021-10-25 12:04:36.585] [exthost] [info] eager extensions activated
+[2021-10-25 12:04:36.589] [exthost] [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onStartupFinished'
+[2021-10-25 12:04:36.589] [exthost] [info] ExtensionService#loadCommonJSModule file:///d:/wingetapp/Microsoft VS Code/resources/app/extensions/emmet/dist/node/emmetNodeMain
+[2021-10-25 12:04:36.597] [exthost] [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+[2021-10-25 12:04:36.597] [exthost] [info] ExtensionService#loadCommonJSModule file:///d:/wingetapp/Microsoft VS Code/resources/app/extensions/merge-conflict/dist/mergeConflictMain
+[2021-10-25 12:04:36.599] [exthost] [info] ExtensionService#_doActivateExtension ms-vscode-remote.remote-wsl-recommender, startup: false, activationEvent: 'onStartupFinished'
+[2021-10-25 12:04:36.599] [exthost] [info] ExtensionService#loadCommonJSModule file:///d:/wingetapp/Microsoft VS Code/resources/app/extensions/ms-vscode-remote.remote-wsl-recommender/dist/extension.js
+[2021-10-25 12:04:36.607] [exthost] [info] ExtensionService#_doActivateExtension eamodio.gitlens, startup: false, activationEvent: 'onStartupFinished'
+[2021-10-25 12:04:36.607] [exthost] [info] ExtensionService#loadCommonJSModule file:///c:/Users/WeiYi/.vscode/extensions/eamodio.gitlens-11.6.1/dist/gitlens
+[2021-10-25 12:04:52.222] [exthost] [info] extension host terminating: renderer closed the socket
+[2021-10-25 12:04:53.243] [exthost] [info] exiting with code 0
+[2021-10-25 12:04:54.033] [exthost] [info] extension host started
+[2021-10-25 12:04:54.033] [exthost] [info] Skipping acquiring lock for c:\Users\WeiYi\AppData\Roaming\Code\User\workspaceStorage\8776d583bdacae85d32f08a4cb7d36ce.
+[2021-10-25 12:04:54.166] [exthost] [info] ExtensionService#_doActivateExtension vscode.microsoft-authentication, startup: false, activationEvent: 'onAuthenticationRequest:microsoft'
+[2021-10-25 12:04:54.166] [exthost] [info] ExtensionService#loadCommonJSModule file:///d:/wingetapp/Microsoft VS Code/resources/app/extensions/microsoft-authentication/dist/extension.js
+[2021-10-25 12:04:54.178] [exthost] [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: true, activationEvent: '*'
+[2021-10-25 12:04:54.178] [exthost] [info] ExtensionService#loadCommonJSModule file:///d:/wingetapp/Microsoft VS Code/resources/app/extensions/debug-auto-launch/dist/extension
+[2021-10-25 12:04:54.181] [exthost] [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*', root cause: vscode.github
+[2021-10-25 12:04:54.181] [exthost] [info] ExtensionService#loadCommonJSModule file:///d:/wingetapp/Microsoft VS Code/resources/app/extensions/git/dist/main
+[2021-10-25 12:04:54.201] [exthost] [info] ExtensionService#_doActivateExtension PKief.material-icon-theme, startup: true, activationEvent: '*'
+[2021-10-25 12:04:54.201] [exthost] [info] ExtensionService#loadCommonJSModule file:///c:/Users/WeiYi/.vscode/extensions/pkief.material-icon-theme-4.10.0/dist/extension
+[2021-10-25 12:04:54.307] [exthost] [info] ExtensionService#_doActivateExtension ms-vscode.js-debug, startup: false, activationEvent: 'onCommand:extension.js-debug.clearAutoAttachVariables'
+[2021-10-25 12:04:54.307] [exthost] [info] ExtensionService#loadCommonJSModule file:///d:/wingetapp/Microsoft VS Code/resources/app/extensions/ms-vscode.js-debug/src/extension.js
+[2021-10-25 12:04:54.524] [exthost] [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+[2021-10-25 12:04:54.525] [exthost] [info] ExtensionService#loadCommonJSModule file:///d:/wingetapp/Microsoft VS Code/resources/app/extensions/github/dist/extension.js
+[2021-10-25 12:04:54.531] [exthost] [info] ExtensionService#_doActivateExtension vscode.github-authentication, startup: false, activationEvent: 'onAuthenticationRequest:github'
+[2021-10-25 12:04:54.531] [exthost] [info] ExtensionService#loadCommonJSModule file:///d:/wingetapp/Microsoft VS Code/resources/app/extensions/github-authentication/dist/extension.js
+[2021-10-25 12:04:54.705] [exthost] [info] eager extensions activated
+[2021-10-25 12:04:54.716] [exthost] [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onStartupFinished'
+[2021-10-25 12:04:54.716] [exthost] [info] ExtensionService#loadCommonJSModule file:///d:/wingetapp/Microsoft VS Code/resources/app/extensions/emmet/dist/node/emmetNodeMain
+[2021-10-25 12:04:54.722] [exthost] [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+[2021-10-25 12:04:54.722] [exthost] [info] ExtensionService#loadCommonJSModule file:///d:/wingetapp/Microsoft VS Code/resources/app/extensions/merge-conflict/dist/mergeConflictMain
+[2021-10-25 12:04:54.726] [exthost] [info] ExtensionService#_doActivateExtension ms-vscode-remote.remote-wsl-recommender, startup: false, activationEvent: 'onStartupFinished'
+[2021-10-25 12:04:54.726] [exthost] [info] ExtensionService#loadCommonJSModule file:///d:/wingetapp/Microsoft VS Code/resources/app/extensions/ms-vscode-remote.remote-wsl-recommender/dist/extension.js
+[2021-10-25 12:04:54.733] [exthost] [info] ExtensionService#_doActivateExtension eamodio.gitlens, startup: false, activationEvent: 'onStartupFinished'
+[2021-10-25 12:04:54.734] [exthost] [info] ExtensionService#loadCommonJSModule file:///c:/Users/WeiYi/.vscode/extensions/eamodio.gitlens-11.6.1/dist/gitlens
+[2021-10-25 12:05:18.886] [exthost] [error] Error: Repository not initialized
+	at O.run (d:\wingetapp\Microsoft VS Code\resources\app\extensions\git\dist\main.js:2:990974)
+	at O.checkIgnore (d:\wingetapp\Microsoft VS Code\resources\app\extensions\git\dist\main.js:2:989802)
+	at checkIgnoreSoon (d:\wingetapp\Microsoft VS Code\resources\app\extensions\git\dist\main.js:2:905296)
+	at Timeout._onTimeout (d:\wingetapp\Microsoft VS Code\resources\app\extensions\git\dist\main.js:2:909346)
+	at listOnTimeout (internal/timers.js:554:17)
+	at processTimers (internal/timers.js:497:7)
+[2021-10-25 12:05:18.887] [exthost] [error] Error: Repository not initialized
+	at O.run (d:\wingetapp\Microsoft VS Code\resources\app\extensions\git\dist\main.js:2:990974)
+	at O.checkIgnore (d:\wingetapp\Microsoft VS Code\resources\app\extensions\git\dist\main.js:2:989802)
+	at checkIgnoreSoon (d:\wingetapp\Microsoft VS Code\resources\app\extensions\git\dist\main.js:2:905296)
+	at Timeout._onTimeout (d:\wingetapp\Microsoft VS Code\resources\app\extensions\git\dist\main.js:2:909346)
+	at listOnTimeout (internal/timers.js:554:17)
+	at processTimers (internal/timers.js:497:7)
+[2021-10-25 12:05:18.887] [exthost] [error] Error: Repository not initialized
+	at O.run (d:\wingetapp\Microsoft VS Code\resources\app\extensions\git\dist\main.js:2:990974)
+	at O.checkIgnore (d:\wingetapp\Microsoft VS Code\resources\app\extensions\git\dist\main.js:2:989802)
+	at checkIgnoreSoon (d:\wingetapp\Microsoft VS Code\resources\app\extensions\git\dist\main.js:2:905296)
+	at Timeout._onTimeout (d:\wingetapp\Microsoft VS Code\resources\app\extensions\git\dist\main.js:2:909346)
+	at listOnTimeout (internal/timers.js:554:17)
+	at processTimers (internal/timers.js:497:7)
+[2021-10-25 12:05:18.887] [exthost] [error] Error: Repository not initialized
+	at O.run (d:\wingetapp\Microsoft VS Code\resources\app\extensions\git\dist\main.js:2:990974)
+	at O.checkIgnore (d:\wingetapp\Microsoft VS Code\resources\app\extensions\git\dist\main.js:2:989802)
+	at checkIgnoreSoon (d:\wingetapp\Microsoft VS Code\resources\app\extensions\git\dist\main.js:2:905296)
+	at Timeout._onTimeout (d:\wingetapp\Microsoft VS Code\resources\app\extensions\git\dist\main.js:2:909346)
+	at listOnTimeout (internal/timers.js:554:17)
+	at processTimers (internal/timers.js:497:7)
+[2021-10-25 12:05:18.887] [exthost] [error] Error: Repository not initialized
+	at O.run (d:\wingetapp\Microsoft VS Code\resources\app\extensions\git\dist\main.js:2:990974)
+	at O.checkIgnore (d:\wingetapp\Microsoft VS Code\resources\app\extensions\git\dist\main.js:2:989802)
+	at checkIgnoreSoon (d:\wingetapp\Microsoft VS Code\resources\app\extensions\git\dist\main.js:2:905296)
+	at Timeout._onTimeout (d:\wingetapp\Microsoft VS Code\resources\app\extensions\git\dist\main.js:2:909346)
+	at listOnTimeout (internal/timers.js:554:17)
+	at processTimers (internal/timers.js:497:7)
+[2021-10-25 12:05:18.887] [exthost] [error] Error: Repository not initialized
+	at O.run (d:\wingetapp\Microsoft VS Code\resources\app\extensions\git\dist\main.js:2:990974)
+	at O.checkIgnore (d:\wingetapp\Microsoft VS Code\resources\app\extensions\git\dist\main.js:2:989802)
+	at checkIgnoreSoon (d:\wingetapp\Microsoft VS Code\resources\app\extensions\git\dist\main.js:2:905296)
+	at Timeout._onTimeout (d:\wingetapp\Microsoft VS Code\resources\app\extensions\git\dist\main.js:2:909346)
+	at listOnTimeout (internal/timers.js:554:17)
+	at processTimers (internal/timers.js:497:7)
+[2021-10-25 12:05:18.887] [exthost] [error] Error: Repository not initialized
+	at O.run (d:\wingetapp\Microsoft VS Code\resources\app\extensions\git\dist\main.js:2:990974)
+	at O.checkIgnore (d:\wingetapp\Microsoft VS Code\resources\app\extensions\git\dist\main.js:2:989802)
+	at checkIgnoreSoon (d:\wingetapp\Microsoft VS Code\resources\app\extensions\git\dist\main.js:2:905296)
+	at Timeout._onTimeout (d:\wingetapp\Microsoft VS Code\resources\app\extensions\git\dist\main.js:2:909346)
+	at listOnTimeout (internal/timers.js:554:17)
+	at processTimers (internal/timers.js:497:7)
+[2021-10-25 12:05:18.888] [exthost] [error] Error: Repository not initialized
+	at O.run (d:\wingetapp\Microsoft VS Code\resources\app\extensions\git\dist\main.js:2:990974)
+	at O.checkIgnore (d:\wingetapp\Microsoft VS Code\resources\app\extensions\git\dist\main.js:2:989802)
+	at checkIgnoreSoon (d:\wingetapp\Microsoft VS Code\resources\app\extensions\git\dist\main.js:2:905296)
+	at Timeout._onTimeout (d:\wingetapp\Microsoft VS Code\resources\app\extensions\git\dist\main.js:2:909346)
+	at listOnTimeout (internal/timers.js:554:17)
+	at processTimers (internal/timers.js:497:7)
+[2021-10-25 12:05:18.888] [exthost] [error] Error: Repository not initialized
+	at O.run (d:\wingetapp\Microsoft VS Code\resources\app\extensions\git\dist\main.js:2:990974)
+	at O.checkIgnore (d:\wingetapp\Microsoft VS Code\resources\app\extensions\git\dist\main.js:2:989802)
+	at checkIgnoreSoon (d:\wingetapp\Microsoft VS Code\resources\app\extensions\git\dist\main.js:2:905296)
+	at Timeout._onTimeout (d:\wingetapp\Microsoft VS Code\resources\app\extensions\git\dist\main.js:2:909346)
+	at listOnTimeout (internal/timers.js:554:17)
+	at processTimers (internal/timers.js:497:7)
+[2021-10-25 12:05:18.888] [exthost] [error] Error: Repository not initialized
+	at O.run (d:\wingetapp\Microsoft VS Code\resources\app\extensions\git\dist\main.js:2:990974)
+	at O.checkIgnore (d:\wingetapp\Microsoft VS Code\resources\app\extensions\git\dist\main.js:2:989802)
+	at checkIgnoreSoon (d:\wingetapp\Microsoft VS Code\resources\app\extensions\git\dist\main.js:2:905296)
+	at Timeout._onTimeout (d:\wingetapp\Microsoft VS Code\resources\app\extensions\git\dist\main.js:2:909346)
+	at listOnTimeout (internal/timers.js:554:17)
+	at processTimers (internal/timers.js:497:7)
+[2021-10-25 12:05:18.888] [exthost] [error] Error: Repository not initialized
+	at O.run (d:\wingetapp\Microsoft VS Code\resources\app\extensions\git\dist\main.js:2:990974)
+	at O.checkIgnore (d:\wingetapp\Microsoft VS Code\resources\app\extensions\git\dist\main.js:2:989802)
+	at checkIgnoreSoon (d:\wingetapp\Microsoft VS Code\resources\app\extensions\git\dist\main.js:2:905296)
+	at Timeout._onTimeout (d:\wingetapp\Microsoft VS Code\resources\app\extensions\git\dist\main.js:2:909346)
+	at listOnTimeout (internal/timers.js:554:17)
+	at processTimers (internal/timers.js:497:7)
+[2021-10-25 12:05:18.888] [exthost] [error] Error: Repository not initialized
+	at O.run (d:\wingetapp\Microsoft VS Code\resources\app\extensions\git\dist\main.js:2:990974)
+	at O.checkIgnore (d:\wingetapp\Microsoft VS Code\resources\app\extensions\git\dist\main.js:2:989802)
+	at checkIgnoreSoon (d:\wingetapp\Microsoft VS Code\resources\app\extensions\git\dist\main.js:2:905296)
+	at Timeout._onTimeout (d:\wingetapp\Microsoft VS Code\resources\app\extensions\git\dist\main.js:2:909346)
+	at listOnTimeout (internal/timers.js:554:17)
+	at processTimers (internal/timers.js:497:7)
+[2021-10-25 12:21:28.981] [exthost] [info] extension host terminating: renderer closed the socket
+[2021-10-25 12:21:30.003] [exthost] [info] exiting with code 0
