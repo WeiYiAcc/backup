@@ -1,0 +1,53 @@
+{
+  "timeStamp": 1634030842356,
+  "version": "1.38.4",
+  "userSettings": {
+    "advancedUserEnabled": true,
+    "externalLists": "https://anti-ad.net/adguard.txt\nhttps://anti-ad.net/anti-ad-for-dnsmasq.conf\nhttps://anti-ad.net/anti-ad-for-smartdns.conf\nhttps://anti-ad.net/domains.txt\nhttps://anti-ad.net/easylist.txt\nhttps://anti-ad.net/surge.txt\nhttps://anti-ad.net/surge2.txt",
+    "importedLists": [
+      "https://anti-ad.net/adguard.txt",
+      "https://anti-ad.net/anti-ad-for-dnsmasq.conf",
+      "https://anti-ad.net/anti-ad-for-smartdns.conf",
+      "https://anti-ad.net/domains.txt",
+      "https://anti-ad.net/easylist.txt",
+      "https://anti-ad.net/surge.txt",
+      "https://anti-ad.net/surge2.txt"
+    ],
+    "popupPanelSections": 31
+  },
+  "selectedFilterLists": [
+    "user-filters",
+    "ublock-filters",
+    "ublock-badware",
+    "ublock-privacy",
+    "ublock-abuse",
+    "ublock-unbreak",
+    "easyprivacy",
+    "urlhaus-1",
+    "plowe-0",
+    "CHN-0",
+    "https://anti-ad.net/anti-ad-for-dnsmasq.conf",
+    "https://anti-ad.net/anti-ad-for-smartdns.conf",
+    "https://anti-ad.net/domains.txt",
+    "https://anti-ad.net/surge.txt",
+    "https://anti-ad.net/surge2.txt",
+    "https://anti-ad.net/easylist.txt",
+    "https://anti-ad.net/adguard.txt"
+  ],
+  "hiddenSettings": {},
+  "whitelist": [
+    "about-scheme",
+    "chrome-extension-scheme",
+    "chrome-scheme",
+    "edge-scheme",
+    "moz-extension-scheme",
+    "opera-scheme",
+    "t66y.com",
+    "vivaldi-scheme",
+    "wyciwyg-scheme"
+  ],
+  "dynamicFilteringString": "behind-the-scene * * noop\nbehind-the-scene * inline-script noop\nbehind-the-scene * 1p-script noop\nbehind-the-scene * 3p-script noop\nbehind-the-scene * 3p-frame noop\nbehind-the-scene * image noop\nbehind-the-scene * 3p noop",
+  "urlFilteringString": "",
+  "hostnameSwitchesString": "no-large-media: behind-the-scene false\nno-csp-reports: * true",
+  "userFilters": "! 2021-10-11 https://www.010jzjg.com\nwww.010jzjg.com##.topRedirectTipsFloat\n"
+}
